@@ -1,0 +1,1592 @@
+<tr style="height: 19px">
+                <th id="552758252R1" style="height: 19px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 19px">2</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s2" colspan="9">Artigos completos publicados em periódicos</td>
+            </tr>
+            <tr style="height: 19px">
+                <th id="552758252R2" style="height: 19px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 19px">3</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s3">Título</td>
+                <td class="s4">Autores</td>
+                <td class="s5 softmerge">
+                    <div class="softmerge-inner" style="width:103px;left:-3px">Revista/Periódico</div>
+                </td>
+                <td class="s5 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Volume</div>
+                </td>
+                <td class="s6 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Número</div>
+                </td>
+                <td class="s3">Página(s)</td>
+                <td class="s3">Ano</td>
+                <td class="s3">Editora</td>
+                <td class="s3">Arquivo/Link</td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R3" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">4</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7"> Mineracão de dados da educação básica brasileira usando as bases do INEP: Uma revisão
+                    sistemática da literatura. </td>
+                <td class="s7">DE CASTRO SOARES, RAIMUNDO ; WEBER NETO, NELSON ; REIS COUTINHO, LUCIANO ; DA SILVA E
+                    SILVA, FRANCISCO JOSÉ ; VIANA DOS SANTOS, DAVI ; SOARES TELES, ARIEL</td>
+                <td class="s7">RENOTE</td>
+                <td class="s8">19</td>
+                <td class="s8">1</td>
+                <td class="s8">361-370</td>
+                <td class="s8">2021</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://www.seer.ufrgs.br/renote/article/download/118526/64553">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R4" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">5</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Árvore de ECOS: Um Jogo para Ensino de Conceitos de Ecossistemas de Software.</td>
+                <td class="s7">ERREIRA, THAÍS DE SOUZA DELUCA ; VIANA, DAVI ; SANTOS, RODRIGO PEREIRA DOS</td>
+                <td class="s7">REVISTA BRASILEIRA DE INFORMÁTICA NA EDUCAÇÃO</td>
+                <td class="s8">29</td>
+                <td class="s8"></td>
+                <td class="s8">273-300</td>
+                <td class="s8">2021</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="http://www.br-ie.org/pub/index.php/rbie/article/download/v29p273/6775">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R5" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">6</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Multitaper-based method for automatic k-complex detection in human sleep EEG</td>
+                <td class="s7">OLIVEIRA, GUSTAVO H.B.S. ; COUTINHO, LUCIANO R. ; SILVA, JOSENILDO C. DA ; PINTO, IVAN
+                    J.P. ; FERREIRA, JÚLIA M.S. ; SILVA, FRANCISCO J.S. ; SANTOS, DAVI V. ; TELES, ARIEL S. </td>
+                <td class="s7">EXPERT SYSTEMS WITH APPLICATIONS</td>
+                <td class="s8">151</td>
+                <td class="s8"></td>
+                <td class="s8">113331</td>
+                <td class="s8">2020</td>
+                <td class="s8">Elsevier</td>
+                <td class="s9"><a target="_blank"
+                        href="https://www.sciencedirect.com/science/article/abs/pii/S0957417420301561">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R6" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">7</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Mental Health Ubiquitous Monitoring Supported by Social Situation Awareness: A Systematic
+                    Review.</td>
+                <td class="s7">MOURA, IVAN ; TELES, ARIEL ; SILVA, FRANCISCO ; VIANA, DAVI ; COUTINHO, LUCIANO ; BARROS,
+                    FLÁVIO ; ENDLER, MARKUS</td>
+                <td class="s7">JOURNAL OF BIOMEDICAL INFORMATICS</td>
+                <td class="s8">107</td>
+                <td class="s8"></td>
+                <td class="s8">103454</td>
+                <td class="s8">2020</td>
+                <td class="s8">Elsevier</td>
+                <td class="s9"><a target="_blank"
+                        href="https://reader.elsevier.com/reader/sd/pii/S1532046420300824?token=CED61F3C7EDEB8ED54DE98224C7810B7406EE37928B22B95B6A9A33869D4E4D80F0026D48F8F40458FE5948843D30782&amp;originRegion=us-east-1&amp;originCreation=20211210132704">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R7" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">8</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Neighborhood-aware Mobile Hub: An Edge Gateway with Leader Election Mechanism for
+                    Internet of Mobile Things.</td>
+                <td class="s7">SILVA, M. ; TELES, ARIEL ; LOPES, R. F. ; SILVA, F. J. S. E. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">VIANA,
+                        DAVI</span><span style="font-size:10pt;font-family:Calibri,Arial;color:#000000;"> ; COUTINHO,
+                        LUCIANO ; GUPTA, N. ; ENDLER, M.</span></td>
+                <td class="s7">MOBILE NETWORKS AND APPLICATIONS</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">1-14</td>
+                <td class="s8">2020</td>
+                <td class="s8">Springer</td>
+                <td class="s9"><a target="_blank"
+                        href="https://link.springer.com/article/10.1007/s11036-020-01630-3">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R8" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">9</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7"> An ontology-based approach to integrate TV and IoT middlewares.</td>
+                <td class="s7">PEREIRA, DANNE MAKLEYSTON G. ; DA S. E SILVA, FRANCISCO JOSÉ ; DE SALLES S. NETO, CARLOS
+                    ; DOS SANTOS, DAVI VIANA ; COUTINHO, LUCIANO REIS ; GUEDES, ÁLAN L. V.</td>
+                <td class="s7">MULTIMEDIA TOOLS AND APPLICATIONS</td>
+                <td class="s8">80</td>
+                <td class="s8">2</td>
+                <td class="s8">1813-1837</td>
+                <td class="s8">2021</td>
+                <td class="s8">Springer</td>
+                <td class="s9"><a target="_blank"
+                        href="https://link.springer.com/article/10.1007/s11042-020-09645-4">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R9" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">10</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Evoluindo um Perfil UML para Jogos Sérios através da Taxonomia de Bloom. </td>
+                <td class="s7">PERES JUNIOR, Francisco das Chagas ; OLIVEIRA, Leandro Massetti Ribeiro ; BOTTENTUIT
+                    JUNIOR, João Batista ; SANTOS, D. ; BARRADAS FILHO, Alex Oliveira</td>
+                <td class="s7">REVISTA TECNOLOGIAS NA EDUCAÇÃO</td>
+                <td class="s8">30</td>
+                <td class="s8"></td>
+                <td class="s8">1-14</td>
+                <td class="s8">2019</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="http://tecedu.pro.br/wp-content/uploads/2019/12/Art8-Ano-11-vol30-Novembro-2019.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R10" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">11</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Identificação de Métricas de Avaliação do Potencial Pedagógico de Ferramentas Lúdicas.
+                </td>
+                <td class="s7">ARANHA JUNIOR, José Roberto de Araújo ; OLIVEIRA, Vanessa Mota ; BARRADAS FILHO, Alex
+                    Oliveira ; BOTTENTUIT JUNIOR, João Batista ; SANTOS, D.</td>
+                <td class="s7">REVISTA TECNOLOGIAS NA EDUCAÇÃO</td>
+                <td class="s8">30</td>
+                <td class="s8"></td>
+                <td class="s8">1-13</td>
+                <td class="s8">2019</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://tecedu.pro.br/wp-content/uploads/2019/12/Art15-Ano-11-vol30-Novembro-2019.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R11" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">12</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Avaliação do Google Sala de Aula como Ferramenta de Apoio ao Processo de
+                    Ensino-aprendizagem em um Curso de Licenciatura em Ciências Biológicas Presencial.</td>
+                <td class="s7">MARTINS, J. ; TELES, A. S. ; SANTOS, D. ; DA SILVA E SILVA, FRANCISCO ; COUTINHO, L. R. ;
+                    TEIXEIRA, S. S.</td>
+                <td class="s7">RENOTE</td>
+                <td class="s8">17</td>
+                <td class="s8">3</td>
+                <td class="s8">587-596</td>
+                <td class="s8">2019</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://www.seer.ufrgs.br/renote/article/download/99544/55686">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R12" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">13</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Objetos Digitais de Aprendizagem no Ensino de Física Básica: Um estudo de caso com
+                    simuladores virtuais em uma escola de ensino público estadual.</td>
+                <td class="s7">CARVALHO, A. ; TELES, A. S. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">SANTOS,
+                        D.</span><span style="font-size:10pt;font-family:Calibri,Arial;color:#000000;"> ; SILVA, F. J.
+                        S. E. ; COUTINHO, L. R. ; TEIXEIRA, S. S.</span></td>
+                <td class="s7">RENOTE</td>
+                <td class="s8">17</td>
+                <td class="s8">3</td>
+                <td class="s8">263-272</td>
+                <td class="s8">2019</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://www.seer.ufrgs.br/renote/article/download/99481/55654">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R13" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">14</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">A Simulation-Based Method for Prediction of Acquisition Costs of Constituents of a
+                    System-of-Systems. </td>
+                <td class="s7">GRACIANO NETO, VALDEMAR VICENTE ; HORITA, FLÁVIO EDUARDO AOKI ; SANTOS, R. P. ; SANTOS,
+                    D. ; KASSAB, MOHAMAD ; MANZANO, WALLACE ; NAKAGAWA, ELISA YUMI </td>
+                <td class="s7">ISYS - BRAZILIAN JOURNAL OF INFORMATION SYSTEM</td>
+                <td class="s8">12</td>
+                <td class="s8">4</td>
+                <td class="s8">6-35</td>
+                <td class="s8">2019</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://sol.sbc.org.br/journals/index.php/isys/article/download/779/734/1027">Download</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R14" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">15</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Edubot: um estudo prático de aprendizagem baseada em problemas no contexto de agentes
+                    inteligentes e jogos sérios.</td>
+                <td class="s7">LIMA, T. ; MENEZES, R. ; BARRADAS FILHO, A. O. ; VIANA, DAVI ; BOTTENTUIT JUNIOR, J. B.
+                </td>
+                <td class="s7"></td>
+                <td class="s8">27</td>
+                <td class="s8"></td>
+                <td class="s8">6</td>
+                <td class="s8">2018</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://d1wqtxts1xzle7.cloudfront.net/60256907/Artigo_Thamyla_-_TE20190810-38957-16am4n1.pdf?1565487384=&amp;response-content-disposition=inline%3B+filename%3DEdubot_um_estudo_pratico_de_aprendizagem.pdf&amp;Expires=1639147647&amp;Signature=HIMltrGF17ypf5F2Z~-cj7tRv97NNJ1JI-DKQj3-0mm2yoZKLSMUc~hdlpjOllw3LHDZTrkPz8EgmwgP~1ix8WpamlWpSrU~U64h2pMKIAd9IMD-6CUBPv071CsUwEpA3cD2Pb0KLI3GSbz2P3yiaLcmlnYQn-HzRoI3w803E9vuocVCn-n8V6SExC8dKwEvhpNfEhVN2eUZOF2~seQiuSfd-M-CPnk9btQXfQa5iFh8hrzC8KSkt6UFJBBEVUQc3Z-6GjgBM-S9cL7pPGx3LSheH9wO-N2PTsdE~DdOc3iBHVWs3YLnz7TorjK-q6oaZo4kKZlNMog7rVcVkhfp6w__&amp;Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R15" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">16</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">A Middleware with Comprehensive Quality of Context Support for the Internet of Things
+                    Applications.</td>
+                <td class="s7">GOMES, BERTO ; MUNIZ, LUIZ ; DA SILVA E SILVA, FRANCISCO ; DOS SANTOS, DAVI ; LOPES,
+                    RAFAEL ; COUTINHO, LUCIANO ; CARVALHO, FELIPE ; ENDLER, MARKUS</td>
+                <td class="s7">SENSOR</td>
+                <td class="s8">17</td>
+                <td class="s8">12</td>
+                <td class="s8">2853</td>
+                <td class="s8">2017</td>
+                <td class="s8">Multidisciplinary Digital Publishing Institute</td>
+                <td class="s9"><a target="_blank" href="http://a.c">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R16" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">17</div>
+                </th>
+                <td></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+            </tr>
+            <tr style="height: 19px">
+                <th id="552758252R17" style="height: 19px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 19px">18</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s2" colspan="9">Capítulos de livros publicados</td>
+            </tr>
+            <tr style="height: 19px">
+                <th id="552758252R18" style="height: 19px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 19px">19</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s3">Título</td>
+                <td class="s4">Autores</td>
+                <td class="s5 softmerge">
+                    <div class="softmerge-inner" style="width:103px;left:-3px">Revista/Periódico</div>
+                </td>
+                <td class="s5 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Volume</div>
+                </td>
+                <td class="s6 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Número</div>
+                </td>
+                <td class="s3">Página(s)</td>
+                <td class="s3">Ano</td>
+                <td class="s3">Editora</td>
+                <td class="s3">Arquivo/Link</td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R19" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">20</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Desenvolvendo ChatBots com o Dialogflow.</td>
+                <td class="s7">CORREA, J. ; VIANA, DAVI ; TELES, ARIEL</td>
+                <td class="s7">SOCIEDADE BRASILEIRA DE COMPUTAÇÃO</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">2021</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://sol.sbc.org.br/livros/index.php/sbc/catalog/download/76/321/577-1">Download</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R20" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">21</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Acessibilidade para Cursos de Educação à Distância: Experiência Exitosa.</td>
+                <td class="s7">OLIVEIRA, A. E. F. ; TEIXEIRA, M. A. M. ; CARVALHO, T. Q. A. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">VIANA,
+                        DAVI</span><span style="font-size:10pt;font-family:Calibri,Arial;color:#000000;"> ; GARCIA, P.
+                        T. ; COSTA, Y. ; SANT?ANNA, M. C. S. ; MUNIZ, A. K. O. A.</span></td>
+                <td class="s7"></td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">171-184</td>
+                <td class="s8">2021</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R21" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">22</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7"> Towards a Conceptual Model to Understand Software Ecosystems Emerging from
+                    Systems-of-Information Systems.</td>
+                <td class="s7">Graciano Neto, Valdemar Vicente ; SANTOS, RODRIGO PEREIRA DOS ; VIANA, DAVI ; Araujo,
+                    Renata </td>
+                <td class="s7"></td>
+                <td class="s8">1081</td>
+                <td class="s8"></td>
+                <td class="s8">1-20</td>
+                <td class="s8">2020</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://link.springer.com/chapter/10.1007/978-3-030-46130-0_1">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R22" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">23</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Linking Knowledge Mapping and Lessons Learned in a Research and Development Group: A
+                    Pilot Study.</td>
+                <td class="s7">SILVA FILHO, E. ; VIANA, DAVI ; RABELO, J. ; CONTE, T.</td>
+                <td class="s7">INTERNATIONAL CONFERENCE ON ENTERPRISE INFORMATION SYSTEMS</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">200-224</td>
+                <td class="s8">2016</td>
+                <td class="s8">Springer</td>
+                <td class="s9"><a target="_blank"
+                        href="https://link.springer.com/chapter/10.1007/978-3-319-62386-3_10">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R23" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">24</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Ecossistemas de Software no Desenvolvimento de Plataformas para Web, Redes Sociais e
+                    Multimídia.</td>
+                <td class="s7">SANTOS, R. ; VIANA, D.</td>
+                <td class="s7">SOCIEDADE BRASILEIRA DE COMPUTAÇÃO</td>
+                <td class="s8">3</td>
+                <td class="s8"></td>
+                <td class="s8">93-118</td>
+                <td class="s8">2016</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://sol.sbc.org.br/livros/index.php/sbc/catalog/download/14/48/98-1">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R24" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">25</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Ecossistemas de Software: Uma Visão sobre Fatores Técnicos, Humanos e Organizacionais.
+                </td>
+                <td class="s7">SANTOS, R. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">VIANA,
+                        D.</span><span style="font-size:10pt;font-family:Calibri,Arial;color:#000000;"> ; MACIEL,
+                        C.</span></td>
+                <td class="s7">LIVRO DOS TUTORIAIS DO XV IHC. 15ED. PORTO ALEGRE</td>
+                <td class="s8">100</td>
+                <td class="s8"></td>
+                <td class="s8">70-90</td>
+                <td class="s8">2016</td>
+                <td class="s8">SBC</td>
+                <td class="s8"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R25" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">26</div>
+                </th>
+                <td></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+            </tr>
+            <tr style="height: 20px">
+                <th id="552758252R26" style="height: 20px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 20px">27</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s2" colspan="9">Trabalhos completos publicados em anais de congresso</td>
+            </tr>
+            <tr style="height: 20px">
+                <th id="552758252R27" style="height: 20px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 20px">28</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s3">Título</td>
+                <td class="s4">Autores</td>
+                <td class="s5 softmerge">
+                    <div class="softmerge-inner" style="width:103px;left:-3px">Revista/Periódico</div>
+                </td>
+                <td class="s5 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Volume</div>
+                </td>
+                <td class="s6 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Número</div>
+                </td>
+                <td class="s3">Página(s)</td>
+                <td class="s3">Ano</td>
+                <td class="s3">Editora</td>
+                <td class="s3">Arquivo/Link</td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R28" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">29</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Business Model for Brazilian Indie Game Studios in Game Software Ecosystems.</td>
+                <td class="s7">XAVIER, BRUNO ; VIANA, DAVI ; SANTOS, RODRIGO </td>
+                <td class="s7">XVII BRAZILIAN SYMPOSIUM ON INFORMATION SYSTEMS</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">1-8</td>
+                <td class="s8">2021</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3466933.3466956">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R29" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">30</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Developer Relations (DevRel) Roles: an Exploratory Study on Practitioners? opinions.</td>
+                <td class="s7">OLIVEIRA, RAPHAEL ; AJALA, CAMILA ; VIANA, DAVI ; CAFEO, BRUNO ; FONTÃO, AWDREN</td>
+                <td class="s8">BRAZILIAN SYMPOSIUM ON SOFTWARE ENGINEERING</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">363-367</td>
+                <td class="s8">2021</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3474624.3474628">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R30" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">31</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Software Ecosystems and Digital Games: Understanding the Financial Sustainability Aspect.
+                </td>
+                <td class="s7">VIANA DOS SANTOS, DAVI; PEREIRA DOS SANTOS, RODRIGO ; LOPES XAVIER, BRUNO</td>
+                <td class="s7">ICEIS</td>
+                <td class="s8">2</td>
+                <td class="s8"></td>
+                <td class="s8">450-457</td>
+                <td class="s8">2020</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank" href="https://www.scitepress.org/Papers/2020/97942/97942.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R31" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">32</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Product Quality for Smart Cities Applications: A Mapping Study.</td>
+                <td class="s7">MACHADO, LEONARDO RIBEIRO ; SILVA, FRANCISCO J. DA ; BARRADAS, ALEX ; VIANA, DAVI ;
+                    TELES, ARIEL ; COUTINHO, LUCIANO</td>
+                <td class="s7">XVI BRAZILIAN SUMPOSIUM ON INFORMATION SYSTEMS</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">1-8</td>
+                <td class="s8">2020</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3411564.3411639">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R32" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">33</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">An Exploratory Study on Developers Opinions about Influence in Open Source Software
+                    Ecosystems. </td>
+                <td class="s7">CONDINA, VINICIUS ; MALCHER, PAULO ; FARIAS, VICTOR ; SANTOS, RODRIGO ; FONTÃO, AWDREN ;
+                    WIESE, IGOR ; VIANA, DAVI</td>
+                <td class="s7">PROCEEDINGS OF THE 34TH BRAZILIAN SYMPOSIUM ON SOFTWARE ENGINEERING</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">137-146</td>
+                <td class="s8">2020</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3422392.3422404">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R33" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">34</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Evaluating the Understandability and Expressiveness of Simulation Executable Models with
+                    Professionals.</td>
+                <td class="s7">LEBTAG, BRUNO GABRIEL ARAÚJO ; TEIXEIRA, PAULO GABRIEL ; SANTOS, RODRIGO PEREIRA DOS ;
+                    VIANA, DAVI ; NETO, VALDEMAR V. GRACIANO</td>
+                <td class="s7">ANAIS DO XIX SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">111-120</td>
+                <td class="s8">2020</td>
+                <td class="s8">SBC</td>
+                <td class="s9"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3439961.3439973">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R34" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">35</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">A Domain-Specific Modeling Language for Specification of Clinical Scores in Mobile
+                    Health.</td>
+                <td class="s7">COUTINHO, LUCIANO ; SILVA, FRANCISCO ; SANTOS, DAVI ; BARBOSA, ALLAN ; TELES, ARIEL</td>
+                <td class="s7">ENASE</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">104-113</td>
+                <td class="s8">2019</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank" href="https://www.scitepress.org/Papers/2019/77281/77281.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R35" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">36</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Mobile Mental Health: A Review of Applications for Depression Assistance.</td>
+                <td class="s7">TELES, ARIEL ; RODRIGUES, IVAN ; VIANA, DAVI ; SILVA, FRANCISCO ; COUTINHO, LUCIANO ;
+                    ENDLER, MARKUS ; RABELO, RICARDO</td>
+                <td class="s7">2019 IEEE 32ND INTERNATIONAL SYMPOSIUM ON COMPUTER-BASED MEDICAL SYSTEMS (CBMS)</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">708-713</td>
+                <td class="s8">2019</td>
+                <td class="s8">IEEE</td>
+                <td class="s9"><a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/8787406">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R36" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">37</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Objetos Digitais de Aprendizagem de Ciências Biológicas no Ensino Fundamental e Médio:
+                    Uma Revisão Sistemática da Literatura Brasileira.</td>
+                <td class="s7">MELO, NICOLAS ; LIMA, FRANCIANE ; SOUSA, CLAUDIENE CANTANHEDE ; TELES, ARIEL ; VIANA,
+                    DAVI ; RIBEIRO-NOVAES, EVILLE ; SILVA, FRANCISCO JOSE </td>
+                <td class="s7">BRAZILIAN SYMPOSIUM ON COMPUTER IN EDUCATION (SBIE)</td>
+                <td class="s8">30</td>
+                <td class="s8">1</td>
+                <td class="s8">269</td>
+                <td class="s8">2019</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="http://www.br-ie.org/pub/index.php/sbie/article/download/8731/6292">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R37" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">38</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">How Much Does It Cost? A Simulation-Based Method for Cost Prediction in
+                    Systems-of-Systems Acquisition Processes.</td>
+                <td class="s7">GRACIANO NETO, VALDEMAR V. ; HORITA, FLÁVIO E. A. ; VIANA, DAVI ; KASSAB, MOHAMAD ; DOS
+                    SANTOS, RODRIGO P.</td>
+                <td class="s7">ANAIS DO III WORKSHOP SOBRE ASPECTOS SOCIAIS, HUMANOS E ECONÔMICOS DE SOFTWARE</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">2018</td>
+                <td class="s8">SBC</td>
+                <td class="s9"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/washes/article/download/3473/3432/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R38" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">39</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Identifying emerging topics and difficulties in software engineering education in Brazil.
+                </td>
+                <td class="s7">FERREIRA, THAÍS ; VIANA, DAVI ; FERNANDES, JULIANA ; SANTOS, RODRIGO</td>
+                <td class="s7">PROCEEDINGS OF THE XXXII BRAZILIAN SYMPOSIUM ON SOFTWARE ENGINEERING</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">230-239</td>
+                <td class="s8">2018</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3266237.3266247">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R39" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">40</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Realising Individual and Team Capability in Agile Software Development: A Qualitative
+                    Investigation.</td>
+                <td class="s7">MENDES, EMILIA ; VIANA, DAVI ; DATTA VISHNUBHOTLA, SAI ; LUNDBERG, LARS</td>
+                <td class="s7">2018 44TH EUROMICRO CONFERENCE ON SOFTWARE ENGINEERING AND ADVANCED APPLICATIONS</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">183-190</td>
+                <td class="s8">2018</td>
+                <td class="s8">IEEE</td>
+                <td class="s9"><a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/8498204">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R40" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">41</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Perceptions of Learning Management System application in Computer Undergraduate Courses.
+                </td>
+                <td class="s7">SILVA, KATIA ; KRONBAUER, CLAUDETE ; VIANA, DAVI </td>
+                <td class="s7">PROCEEDINGS OF THE EURO AMERICAN CONFERENCE ON TELEMATICS AND INFORMATION SYSTEMS</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">1-8</td>
+                <td class="s8">2018</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3293614.3293637">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R41" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">42</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">How Have Software Engineering Researchers Been Measuring Software Productivity? A
+                    Systematic Mapping Study.</td>
+                <td class="s7">OLIVEIRA, E. ; VIANA, D. ; CRISTO, M. ; CONTE, T. </td>
+                <td class="s7">INTERNATIONAL CONFERENCE ON ENTERPRISE INFORMATION SYSTEMS</td>
+                <td class="s8">2</td>
+                <td class="s8"></td>
+                <td class="s8">76-87</td>
+                <td class="s8">2017</td>
+                <td class="s8">SCITEPRESS</td>
+                <td class="s9"><a target="_blank" href="https://www.scitepress.org/papers/2017/63144/63144.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R42" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">43</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">An Exploratory Study on the Need for Modeling Software Ecosystems: The Case of SOLAR
+                    SECO.</td>
+                <td class="s7">COUTINHO, EMANUEL FERREIRA ; VIANA, DAVI ; SANTOS, RODRIGO PEREIRA DOS </td>
+                <td class="s7">2017 IEEE/ACM 9TH INTERNATIONAL WORKSHOP ON MODELING IN SOFTWARE ENGINEERING</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">47-53</td>
+                <td class="s8">2017</td>
+                <td class="s8">IEEE</td>
+                <td class="s9"><a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/7964595">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R43" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">44</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">EvidenceSET: A Tool for Supporting Analysis of Evidence and Synthesis of Primary and
+                    Secondary Studies.</td>
+                <td class="s7">BARBOSA, O. ; SANTOS, R. ; VIANA, D.</td>
+                <td class="s7">ANAIS DO VIII CONGRESSO BRASILEIRO DE SOFTWARE: TEORIA E PRÁTICA, SESSÃO DE FERRAMENTAS
+                </td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">73-80</td>
+                <td class="s8">2017</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Olavo-Barbosa/publication/320193858_EvidenceSET_A_Tool_for_Supporting_Analysis_of_Evidence_and_Synthesis_of_Primary_and_Secondary_Studies/links/59d44091a6fdcc181ad953bb/EvidenceSET-A-Tool-for-Supporting-Analysis-of-Evidence-and-Synthesis-of-Primary-and-Secondary-Studies.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R44" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">45</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Práticas para Tratamento de Fatores Críticos de Sucesso.</td>
+                <td class="s7">FREIRE, R. ; VIANA, DAVI ; SANTOS, G.</td>
+                <td class="s7">ANAIS DO XVI SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">176-190</td>
+                <td class="s8">2017</td>
+                <td class="s8">SBC</td>
+                <td class="s9"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/sbqs/article/download/15100/14945/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R45" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">46</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Knowledge Mapping in a Research and Development Group - A Pilot Study.</td>
+                <td class="s7">SILVA FILHO, E. ; VIANA, D. ; RABELO, J. ; CONTE, T.</td>
+                <td class="s7">INTERNATIONAL CONFERENCE ON ENTERPRISE INFORMATION SYSTEMS</td>
+                <td class="s8">2</td>
+                <td class="s8"></td>
+                <td class="s8">306-317</td>
+                <td class="s8">2016</td>
+                <td class="s8">SCITEPRESS</td>
+                <td class="s9"><a target="_blank" href="https://www.scitepress.org/papers/2016/58318/58318.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R46" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">47</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Um estudo sobre a relação entre Processo e Motivação em Equipes de Desenvolvimento de
+                    Software.</td>
+                <td class="s7">XAVIER, DANIEL ; VIANA, DAVI ; GADELHA, BRUNO</td>
+                <td class="s7">ANAIS DO XII SIMPÓSIO BRASILEIRO DE SISTEMAS DE INFORMAÇÃO</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">76-83</td>
+                <td class="s8">2016</td>
+                <td class="s8">SBC</td>
+                <td class="s9"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/sbsi/article/download/5948/5846/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R47" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">48</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Facilitando a Aprendizagem Organizacional em Melhoria de Processo de Software.</td>
+                <td class="s10">VIANA, D.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; SOUZA, C. ;
+                        CONTE, T.</span></td>
+                <td class="s7">ANAIS DO XV SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">391-405</td>
+                <td class="s8">2016</td>
+                <td class="s8">SBC</td>
+                <td class="s9"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/sbqs/article/download/15148/14993/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R48" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">49</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Knowledge Creation and Loss within a Software Organization: An Exploratory Case Study.
+                </td>
+                <td class="s10">VIANA, D.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; CONTE, T. ;
+                        MARCZAK, S. ; FERREIRA, R. ; SOUZA, C.</span></td>
+                <td class="s7">2015 48TH HAWAII INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">3980-3989</td>
+                <td class="s8">2015</td>
+                <td class="s8">IEEE</td>
+                <td class="s9"><a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/7070296">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R49" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">50</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7"> Applying Knowledge Codification in a Post-mortem Process - A Practical Experience. </td>
+                <td class="s7">SILVA FILHO, E. ; VIANA, D. ; CONTE, T. </td>
+                <td class="s7">INTERNATIONAL CONFERENCE ON ENTERPRISE INFORMATION SYSTEMS</td>
+                <td class="s8">2</td>
+                <td class="s8"></td>
+                <td class="s8">153-165</td>
+                <td class="s8">2015</td>
+                <td class="s8">SCITEPRESS</td>
+                <td class="s9"><a target="_blank" href="https://www.scitepress.org/papers/2015/53763/53763.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R50" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">51</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Knowledge Transfer between Senior and Novice Software Engineers: A Qualitative Analysis.
+                </td>
+                <td class="s10">VIANA, D.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; CONTE, T. ;
+                        SOUZA, C.</span></td>
+                <td class="s7">SEKE</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">235-240</td>
+                <td class="s8">2014</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Davi-Viana-2/publication/289262936_Knowledge_transfer_between_senior_and_novice_software_engineers_A_qualitative_analysis/links/56b8a91408ae5ad3605f49e1/Knowledge-transfer-between-senior-and-novice-software-engineers-A-qualitative-analysis.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R51" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">52</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Usando PABC-Pattern para Codificar o Conhecimento: Um estudo Experimental.</td>
+                <td class="s7">RABELO, J. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">VIANA,
+                        D.</span><span style="font-size:10pt;font-family:Calibri,Arial;color:#000000;"> ; SANTOS, G. ;
+                        CONTE, T.</span></td>
+                <td class="s7">ANAIS DO XIII SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">1-15</td>
+                <td class="s8">2014</td>
+                <td class="s8">SBC</td>
+                <td class="s9"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/sbqs/article/download/15240/15084/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R52" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">53</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Usando Análise de Redes Sociais para Investigar a Disseminação do Conhecimento em
+                    Melhorias de Processos de Software.</td>
+                <td class="s10">VIANA, D.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; DE SOUZA,
+                        C.R.B. ; CABRAL, R. ; DIB, M. ; VIEIRA, A. ; FERREIRA, R. ; CONTE, T.</span></td>
+                <td class="s7">ANAIS DO XIII SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">180-194</td>
+                <td class="s8">2014</td>
+                <td class="s8">SBC</td>
+                <td class="s9"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/sbqs/article/download/15252/15096/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R53" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">54</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">InspSoft 2.0: Um Jogo para o Ensino de Inspeção de Software.</td>
+                <td class="s7">LOPES, A. ; VIANA, D. ; RABELO, J. ; VIEIRA, A. ; CONTE, T.</td>
+                <td class="s7">ANAIS DO XII SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">95-107</td>
+                <td class="s8">2013</td>
+                <td class="s8">SBC</td>
+                <td class="s9"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/sbqs/article/download/15276/15119/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R54" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">55</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Evaluating the REMO-EKD technique: A technique for the elicitation of software
+                    requirements based on EKD organizational models.</td>
+                <td class="s7">DE OLIVEIRA, MARCOS ; VIANA, DAVI ; CONTE, TAYANA ; VIEIRA, SERGIO ; MARCZAK, SABRINA
+                </td>
+                <td class="s7">2013 3RD INTERNATIONAL WORKSHOP ON EMPIRICAL REQUIRIMENTS ENGINEERING (EMPIRE)</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">9-16</td>
+                <td class="s8">2013</td>
+                <td class="s8">IEEE</td>
+                <td class="s9"><a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/6615210">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R55" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">56</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Using Empirical Studies to Evaluate the REMO Requirement Elicitation Technique. </td>
+                <td class="s7">VIEIRA, S. ; SANTOS, D. ; NASCIMENTO, R. ; CONTE, T.</td>
+                <td class="s7">SEKE</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">33-38</td>
+                <td class="s8">2012</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://d1wqtxts1xzle7.cloudfront.net/53706480/Using_Empirical_Studies_to_evaluate_the_20170629-3071-tmzeey-with-cover-page-v2.pdf?Expires=1639228595&amp;Signature=gPatLjk0lQiTHJSxrkhvcS16FrBv7XrOpi40L-CSizhTNjbVZocb2gvHSf5Xri~EA-7~qJRIkiAG8TDbdF3VMGuGRDc1Fu7vtHlqj7GZ97jmFddHm9C~DNF7CFUFQZHdkwljpOmgR3nqOIFf51CE63yuPKfBQEb-w1rhxSGi7DFkZbgCb~7wnWFmI2axSC38bTpTn1SBXOozJ~4LALMGNYFwGKlEpZdo73ILjgizV5L-cfMoDwupsMAIimQ5HpzQUpk-bKdCT8-NGJWQ9XJ45CoZSuybf0niN4ux5oQoS91r8sEuc~RB2wun9aqh6~7l61sMW5mdeIynwK3q1a4Uwg__&amp;Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R56" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">57</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Comparing Knowledge Codification Approaches: An Empirical Study. </td>
+                <td class="s7">RABELO, J. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">SANTOS,
+                        D.</span><span style="font-size:10pt;font-family:Calibri,Arial;color:#000000;"> ; CONTE, T. ;
+                        SANTOS, G.</span></td>
+                <td class="s7">2012 BRAZILIAN SYMPOSIUM ON COLABORATIVE SYSTEMS</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">136-145</td>
+                <td class="s8">2012</td>
+                <td class="s8">IEEE</td>
+                <td class="s9"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Gleison-Santos/publication/261169618_Comparing_Knowledge_Codification_Approaches_An_Empirical_Study/links/0deec533b1a1fa3914000000/Comparing-Knowledge-Codification-Approaches-An-Empirical-Study.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R57" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">58</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Avaliando uma Técnica para Extrair Requisitos a partir de Diagramas de Processos de
+                    Negócios através de Estudos Experimentais.</td>
+                <td class="s7">VIEIRA, S. ; VIANA, D. ; NASCIMENTO, R. ; CONTE, T.</td>
+                <td class="s7">PROCEEDINGS OF THE 38TH CONFERENCIA LATINOAMERICANA EM INFORMATICA</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">2012</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://d1wqtxts1xzle7.cloudfront.net/53706499/Avaliando_uma_Tcnica_para_Extrair_Requis20170629-3066-hzt1b6-with-cover-page-v2.pdf?Expires=1639228884&amp;Signature=I44IrbxvWW2RKYkJvLmFmn2vvJthic9ZmfQ9paQThmZnSo4H2iYS-X073rQx7ZDWNkFQ6Ml6LIAMmEOGblyQ9DBWOwT-VHq4Wn3k65G3yUqGvHdllwnFRn9xocRHYD3an~woRO0~qQb7WlkhehL5LlnuJ~-Bvs4fhycBYfsknQtApv6mJKaX~6rUTlvKSUSP~n-e-5efrhSbRAl-nK-R7P9rcb1FuJDv5puWeoZ-m6mQA5SK50TLYws-DC5eD5zOaZN49708275EDovJcISoneC1ef4F34GJKXALI3HvElt7AFluPpalnMGrGo5P~0ACRG3W5WnoJKqLKNaFfas56g__&amp;Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R58" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">59</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Aspectos humanos que afetam um programa de melhoria de processo de software - Uma análise
+                    qualitativa.</td>
+                <td class="s10">SANTOS, D.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; VILELA, D.
+                        ; SOUZA, C. ; CONTE, T.</span></td>
+                <td class="s7">CIBSE</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">157-170</td>
+                <td class="s8">2011</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Tayana-Conte/publication/266036042_Aspectos_humanos_que_afetam_um_programa_de_melhoria_de_processo_de_software_-Uma_analise_qualitativa/links/54ad6b870cf2213c5fe3f207/Aspectos-humanos-que-afetam-um-programa-de-melhoria-de-processo-de-software-Uma-analise-qualitativa.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R59" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">60</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Programas de Melhoria de Processo de Software ? Uma pesquisa sobre a influência dos
+                    aspectos humanos.</td>
+                <td class="s10">SANTOS, D.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; VILELA, D.
+                        ; SOUZA, C. ; CONTE, T.</span></td>
+                <td class="s7">ANAIS DO X SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">183-197</td>
+                <td class="s8">2011</td>
+                <td class="s8">SBC</td>
+                <td class="s9"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/sbqs/article/download/15395/15238/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R60" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">61</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Uma análise do aspecto motivacional na implementação de um Programa de Melhoria de
+                    Processo de Software.</td>
+                <td class="s10">SANTOS, D.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; RABELO, J.
+                        ; CONTE, T.</span></td>
+                <td class="s7">ANAIS DO X SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">5-15</td>
+                <td class="s8">2011</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiW8vfw3tv0AhVOH7kGHWXQDFoQFnoECAIQAQ&amp;url=https%3A%2F%2Fsol.sbc.org.br%2Findex.php%2Fsbqs%2Farticle%2Fdownload%2F15395%2F15238%2F&amp;usg=AOvVaw3r8-t9084FdwqkCOntjDSb">Download</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R61" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">62</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Resultados de um Estudo Qualitativo sobre a implementação do modelo MPS em empresas do
+                    programa AmazonSoft.</td>
+                <td class="s10">SANTOS, D.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; RABELO, J.
+                        ; MAR, C. ; AGUIAR, E. ; VIANA, P. ; VILELA, D. ; CONTE, T.</span></td>
+                <td class="s7">VI WORKSHOP ANUAL DO MPS</td>
+                <td class="s8">2</td>
+                <td class="s8"></td>
+                <td class="s8">138-147</td>
+                <td class="s8">2010</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Davi-Viana-2/publication/309284153_Resultados_de_um_Estudo_Qualitativo_sobre_a_implementacao_do_modelo_MPS_em_empresas_do_programa_AmazonSoft/links/581b259008ae40da2ca8cddd/Resultados-de-um-Estudo-Qualitativo-sobre-a-implementacao-do-modelo-MPS-em-empresas-do-programa-AmazonSoft.pdf">Download</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R62" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">63</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Evoluindo uma Técnica de Avaliação de Usabilidade através de Estudos In Vitro e In Vivo.
+                </td>
+                <td class="s7">GOMES, M. ; SANTOS, F. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">SANTOS,
+                        D.</span><span style="font-size:10pt;font-family:Calibri,Arial;color:#000000;"> ; CONTE, T. ;
+                        TRAVASSOS, G.</span></td>
+                <td class="s7">ANAIS DO IX SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">229-243</td>
+                <td class="s8">2010</td>
+                <td class="s8">SBC</td>
+                <td class="s9"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/sbqs/article/download/15432/15275/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R63" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">64</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Aplicando Grounded Theory para Compreender os Fatores Críticos de Sucesso em Iniciativas
+                    de Melhoria de Processo de Software.</td>
+                <td class="s7">Matos, O. ; SECATTI, V. ; SANTOS, D. ; OLIVEIRA, H. ; CONTE, T.</td>
+                <td class="s7">VI WOSES - WORKSHOP &quot;UM OLHAR SÓCIO-TÉCNICO SOBRE A ENGENHARIA DE SOFTWARE&quot;
+                </td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">2010</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://silo.tips/downloadFile/aplicando-grounded-theory-para-compreender-os-fatores-criticos-de-sucesso-em-ini">Download</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R64" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">65</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">WDP-RT: Uma técnica de leitura para inspeção de usabilidade de aplicações Web.</td>
+                <td class="s7">GOMES, M. ; SANTOS, D. ; CHAVES, L. ; CASTRO, A. ; VAZ, V. ; TRAVASSOS, G. ; CONTE, T.
+                </td>
+                <td class="s7">VI EXPERIMENTAL SOFTWARE ENGINEERING LATIN AMERICAN WORKSHOP</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">124-133</td>
+                <td class="s8">2009</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="http://www2.dc.ufscar.br/~eselaw09/proceedingsEselaw2009.pdf#page=132">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R65" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">66</div>
+                </th>
+                <td></td>
+                <td class="s11"></td>
+                <td class="s11"></td>
+                <td class="s11"></td>
+                <td class="s12"></td>
+                <td class="s12"></td>
+                <td class="s12"></td>
+                <td class="s12"></td>
+                <td class="s12"></td>
+                <td class="s13"></td>
+            </tr>
+            <tr style="height: 20px">
+                <th id="552758252R66" style="height: 20px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 20px">67</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s2" colspan="9">Resumos expandidos publicados em anais de congressos</td>
+            </tr>
+            <tr style="height: 20px">
+                <th id="552758252R67" style="height: 20px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 20px">68</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s3">Título</td>
+                <td class="s4">Autores</td>
+                <td class="s5 softmerge">
+                    <div class="softmerge-inner" style="width:103px;left:-3px">Revista/Periódico</div>
+                </td>
+                <td class="s5 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Volume</div>
+                </td>
+                <td class="s6 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Número</div>
+                </td>
+                <td class="s3">Página(s)</td>
+                <td class="s3">Ano</td>
+                <td class="s3">Editora</td>
+                <td class="s3">Arquivo/Link</td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R68" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">69</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Investigating the Interplay of Digital Transformation and Artificial Intelligence in
+                    Organizations: Insights from a preliminary qualitative analysis.</td>
+                <td class="s7">TERADA, A. M. ; HORITA, F. ; VIANA, DAVI .</td>
+                <td class="s7">18TH CONTECSI 2021 - PROCEEDINGS AND ABSTRACTS</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">1</td>
+                <td class="s8">2021</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R69" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">70</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Modelo de Negócio para Estúdios Independentes em Ecossistemas de Software de Jogos
+                    Digitais.</td>
+                <td class="s7">XAVIER, BRUNO ; VIANA, DAVI ; SANTOS, R. </td>
+                <td class="s7">PROCEEDINGS OF SBGAMES 2021</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">1-4</td>
+                <td class="s8">2021</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R70" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">71</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Modelagem de Negócio para Estúdios Independentes nos Ecossistemas de Software de Jogos
+                    Digitais.</td>
+                <td class="s7">XAVIER, B. L. ; VIANA, D. ; SANTOS, R. P.</td>
+                <td class="s7">ANAIS ESTENDIDOS DO XV SIMPÓSIO BRASILEIRO DE SISTEMAS DE INFORMAÇÃO</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">53-56</td>
+                <td class="s8">2019</td>
+                <td class="s8">SBC</td>
+                <td class="s9"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R71" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">72</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Software Engineering Practices in the development of applications for Smart Cities.</td>
+                <td class="s7">VIANA, DAVI; DE OLIVEIRA ROSA, THATIANE ; SILVA, FRANCISCO ; DURANS, PABLO ; ARAGÃO,
+                    ALEXANDRE ; KON, FABIO ; GOLDMAN, ALFREDO</td>
+                <td class="s7">PROCEEDINGS OF THE XXXIII BRAZILIAN SYMPOSIUM ON SOFTWARE ENGINEERING</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">150-154</td>
+                <td class="s8">2019</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3350768.3351801">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R72" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">73</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Um Guia Móvel para Assistir Turistas do Parque Nacional dos Lençóis Maranhenses. </td>
+                <td class="s7">SILVA, J. ; TELES, A. S. ; SERRA, M. ; SILVA, F. J. S. E. ; VIANA, D. </td>
+                <td class="s7">ANAIS DO VII ESCOLA REGIONAL DE COMPUTAÇÃO DO CEARÁ, MARANHÃO E PIAUÍ</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">127-134</td>
+                <td class="s8">2019</td>
+                <td class="s8">SBC</td>
+                <td class="s9"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/ercemapi/article/download/8854/8755/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R73" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">74</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Investigating Factors That Influence Developers&#39; Experience in Mobile Software
+                    Ecosystems. </td>
+                <td class="s7">FONTAO, AWDREN ; DIAS-NETO, ARILO ; VIANA, DAVI </td>
+                <td class="s7">2017 IEEE/ACM JOINT 5TH INTERNATIONAL WORKSHOP ON SOFTWARE ENGINEERING FOR
+                    SYSTEMS-OF-SYSTEMS AND 11TH WORKSHOP ON DISTRIBUTED SOFTWARE DEVELOPMENT, SOFTWARE ECOSYSTEMS AND
+                    SYSTEMS-OFSYSTEMS</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">55-58</td>
+                <td class="s8">2017</td>
+                <td class="s8">IEEE</td>
+                <td class="s9"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Awdren-Fontao/publication/314885924_Investigating_Factors_That_Influence_Developers&#39;_Experience_in_Mobile_Software_Ecosystems/links/5b02e4354585154aeb06fdbf/Investigating-Factors-That-Influence-Developers-Experience-in-Mobile-Software-Ecosystems.pdf">Download</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R74" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">75</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Preliminary Findings of Expert and Systematic Reviews on the Software Ecosystems
+                    Research. </td>
+                <td class="s7">BARBOSA, O. ; SANTOS, R. ; VIANA, D.</td>
+                <td class="s7">ANAIS DO I WORKSHOP SOBRE ASPECTOS SOCIAIS, HUMANOS E ECONÔMICOS DE SOFTWARE</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">81-85</td>
+                <td class="s8">2016</td>
+                <td class="s8">SBC</td>
+                <td class="s9"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/washes/article/download/6228/6126/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R75" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">76</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Software Ecosystems in the Development of Web, Social Networks and Multimedia Platforms.
+                </td>
+                <td class="s7">SANTOS, RODRIGO ; VIANA, DAVI </td>
+                <td class="s7">PROCEEDINGS OF THE 22ND BRAZILIAN SYMPOSIUM ON MULTIMEDIA AND THE WEB</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">21-22</td>
+                <td class="s8">2016</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/2976796.2988220">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R76" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">77</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Knowledge Management and Organizational Culture in a Software Organization ? a Case
+                    Study. </td>
+                <td class="s7">RABELO, J. ; OLIVEIRA, E. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">VIANA,
+                        D.</span><span style="font-size:10pt;font-family:Calibri,Arial;color:#000000;"> ; BRAGA, L. ;
+                        SANTOS, G. ; STEINMACHER, I. ; CONTE, T.</span></td>
+                <td class="s7">2015 IEEE/ACM 8TH INTERNATIONAL WORKSHOP ON COOPERATIVE AND HUMAN ASPECTS OF SOFTWARE
+                    ENGINEERING</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">89-92</td>
+                <td class="s8">2015</td>
+                <td class="s8">IEEE</td>
+                <td class="s9"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Jacilane-Rabelo/publication/308732994_Knowledge_Management_and_Organizational_Culture_in_a_Software_Organization_--_A_Case_Study/links/580772e308ae07cbaa5415f7/Knowledge-Management-and-Organizational-Culture-in-a-Software-Organization--A-Case-Study.pdf">Download</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R77" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">78</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Oportunizando a Aprendizagem e Gerência do Conhecimento em Ecossistemas de Software.
+                </td>
+                <td class="s7">VIANA, DAVI; CONTE, TAYANA</td>
+                <td class="s7">WDES 2015</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">73</td>
+                <td class="s8">2015</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://pdfslide.tips/education/wdes-2015-paper-oportunizando-a-aprendizagem-e-gerencia-do-conhecimento-em.html">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R78" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">79</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Qualidade em Ecossistemas de Software: Desafios e Oportunidades de Pesquisa.</td>
+                <td class="s7">SANTOS, R. ; VALENCA, G. ; VIANA, D. ; ESTÁCIO, B. ; FONTÃO, A. ; MARCZAK, S. ; WERNER,
+                    C. ; ALVES, C. ; CONTE, T. ; PRIKLADNICKI, R. </td>
+                <td class="s7">ANAIS DO V CBSOFT, VIII WDES, MACEIÓ</td>
+                <td class="s8">2</td>
+                <td class="s8"></td>
+                <td class="s8">41-44</td>
+                <td class="s8">2014</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Awdren-Fontao/publication/280014000_Qualidade_em_Ecossistemas_de_Software_Desafios_e_Oportunidades_de_Pesquisa/links/55a3ce4208ae72349bbcf8c0/Qualidade-em-Ecossistemas-de-Software-Desafios-e-Oportunidades-de-Pesquisa.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R79" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">80</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Facilitando a Aprendizagem Organizacional em Melhorias de Processo de Software. </td>
+                <td class="s10">VIANA, D.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; DE SOUZA,
+                        C.R.B. ; CONTE, T.</span></td>
+                <td class="s7">ANAIS DO XV SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">391-405</td>
+                <td class="s8">2016</td>
+                <td class="s8">SBC</td>
+                <td class="s9"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/sbqs/article/download/15148/14993/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R80" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">81</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">A qualitative study about the life cycle of lessons learned.</td>
+                <td class="s7">VIANA, DAVI; RABELO, JACILANE ; CONTE, TAYANA ; VIEIRA, ANDREIA ; BARROSO, ELLEN ; DIB,
+                    MARIO</td>
+                <td class="s7">2013 6TH INTERNATIONAL WORKSHOP ON COOPERATIVE AND HUMAN ASPECTS OF SOFTWARE ENGINEERING
+                </td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">73-76</td>
+                <td class="s8">2013</td>
+                <td class="s8">IEEE</td>
+                <td class="s9"><a target="_blank" href="https://ieeexplore.ieee.org/document/6614734">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R81" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">82</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Elicitação de Requisitos a partir de Modelos de Processos de Negócio e Modelos
+                    Organizacionais: Uma pesquisa para definição de técnicas baseadas em heurísticas. </td>
+                <td class="s7"><br>OLIVEIRA, M. ; VIEIRA, S. ; VIANA, D. ; MARCZAK, S. ; CONTE, T.</td>
+                <td class="s7">ER@ BR</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">86-91</td>
+                <td class="s8">2013</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://d1wqtxts1xzle7.cloudfront.net/53706494/Elicitao_de_Requisitos_a_partir_de_Model20170629-3071-mskyd0-with-cover-page-v2.pdf?Expires=1639232282&amp;Signature=EmXSDNszflFi6n6vvczKDGH~u-j1lG8aMfBcmcOKQBdMbrRd81OozaYu9UxvxTpN267QuKUq2eOMYu24ulS2EvW8jZoWtsEiQ6~TbWmSP~ke~QX4Mk77IOzabhTDYs20VIfvmLYAQOJ18ee1v40YozlUCMlgvI4evB6DzuaX5oCR9nKT46Z3uCg9~LqE0mxbpgVvC8FNQ33BM94y03FQma7NgB9uY8-jA-hkHhprKQeI~jbYJPDXlLbgfm8PiCUBzxaQdzPoQD0Hj1Y9~9Amp8HLopAvVSqonG2y1QNwkcG2c9lFS0lANVtZYyYokXjha4s2Ev6ZMqApC9N-XfhCHA__&amp;Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R82" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">83</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">The influence of human aspects on software process improvement: qualitative research
+                    findings and comparison to previous studies.</td>
+                <td class="s10">VIANA, D.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; CONTE, T. ;
+                        VILELA, D. ; DE SOUZA, C.R.B. ; SANTOS, G. ; PRIKLADNICKI, R.</span></td>
+                <td class="s7">16TH INTERNATIONAL CONFERENCE ON EVALUATION &amp; ACESSMENT IN SOFTWARE ENGINEERING</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">121-125</td>
+                <td class="s8">2012</td>
+                <td class="s8">IET</td>
+                <td class="s9"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Gleison-Santos/publication/260723792_The_influence_of_human_aspects_on_software_process_improvement_Qualitative_research_findings_and_comparison_to_previous_studies/links/0c96053b2ddad4acf6000000/The-influence-of-human-aspects-on-software-process-improvement-Qualitative-research-findings-and-comparison-to-previous-studies.pdf">Download</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R83" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">84</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Fatores críticos de sucesso em iniciativas de MPS - Uma visão qualitativa.</td>
+                <td class="s10">SANTOS, D.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; CONTE, T.
+                        .</span></td>
+                <td class="s7">QUALIDADE E PRODUTIVIDADE EM SOFTWARE PROJETOS CICLO 2010</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">35</td>
+                <td class="s8">2010</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://d1wqtxts1xzle7.cloudfront.net/30808599/Revista_PBQP_2_Edicao-with-cover-page-v2.pdf?Expires=1639232792&amp;Signature=HOSV55FUzS-AIwUHu0LEM7wizqCBquMwvoOlrzlmdLnEAlMxLHdN7ac~jt4eqx9H8Ik4dwJ7zoeVoT3fjKcm4LBXIJR~Z8JcdmYxZKiUHELwbq0DnmJqE3Yj5DWFQLmzqWt1ikvsdJ6azfk2Vh~xlwlev0L6kf1~8zS84uHqLLW7MuG8ILSMRzsTi1HcQlQD0r5dHHDugBfZrggvRefJEYiGGr40aGLSc2F2TN4FTozQj~Rtg~em9qBC0H6ovbCe2qbbf3qYWL26lpHu2V45UxkP9piKiN4rhC2geTOEt10Kwgi12BhVujjxoZlbTzKKqZvxS30ofI5E629sq3Xx5Q__&amp;Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=30">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R84" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">85</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Aplicando Técnicas de Inspeção de Usabilidade para Avaliar Aplicações Móveis. </td>
+                <td class="s7">BONIFACIO, B. ; SANTOS, D. ; ARAUJO, C. ; VIEIRA, S. ; CONTE, T.</td>
+                <td class="s7">PROCEEDINGS OF THE IX SYMPOSIUM ON HUMAN FACTORS IN COMPUTING SYSTEMS</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">189-192</td>
+                <td class="s8">2010</td>
+                <td class="s8"></td>
+                <td class="s9"><a target="_blank"
+                        href="https://d1wqtxts1xzle7.cloudfront.net/53706507/Aplicando_tcnicas_de_inspeo_de_usabilida20170629-3066-14sa0ba-with-cover-page-v2.pdf?Expires=1639232901&amp;Signature=Kf1h-wH8okBGAq70Vzq~neJmru2UpTfBhhmKcG2BdNMeTVD2jH6Vz3DiHXpzyUbfPPhwVc5Nb5XaKHMpvhKQORYdFCxSYngXafYzlnmwv1oEj~HpMmI0HTBPAWMSDQhWsxd9KlTvb8Dz22tWVTwy4KAZSPBXQDus56ADYHlY1dtdtVG2179qEvL16EQ-QpgDIq60cpkHjZg5DUWk7RAB0dzASAvQzI2r0K7-jcPTSZZgaYmx0olHOaTxhMGK~2SJclsawIVrXCLJYusnsiudpg0YMpz8terVE95ShZr7tw2nOF4~f~77JhG3ah7PMK1rGDU6GpNNI9ggMiye5QCywg__&amp;Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R85" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">86</div>
+                </th>
+                <td></td>
+                <td class="s11"></td>
+                <td class="s11"></td>
+                <td class="s11"></td>
+                <td class="s12"></td>
+                <td class="s12"></td>
+                <td class="s12"></td>
+                <td class="s12"></td>
+                <td class="s12"></td>
+                <td class="s13"></td>
+            </tr>
+            <tr style="height: 20px">
+                <th id="552758252R86" style="height: 20px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 20px">87</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s2" colspan="9">Resumos publicados em anais de congressos</td>
+            </tr>
+            <tr style="height: 20px">
+                <th id="552758252R87" style="height: 20px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 20px">88</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s3">Título</td>
+                <td class="s4">Autores</td>
+                <td class="s5 softmerge">
+                    <div class="softmerge-inner" style="width:103px;left:-3px">Revista/Periódico</div>
+                </td>
+                <td class="s5 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Volume</div>
+                </td>
+                <td class="s6 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Número</div>
+                </td>
+                <td class="s3">Página(s)</td>
+                <td class="s3">Ano</td>
+                <td class="s3">Editora</td>
+                <td class="s3">Arquivo/Link</td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R88" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">89</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Incorporação de Acessibilidade Digital nos Recursos Educacionais e Ambientes Virtuais da
+                    UNA-SUS.</td>
+                <td class="s7">COSTA, Y. ; SILVEIRA, R. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">VIANA,
+                        DAVI</span><span style="font-size:10pt;font-family:Calibri,Arial;color:#000000;"> ; OLIVEIRA, A.
+                        E. F. ; TEIXEIRA, M. M.</span></td>
+                <td class="s7">ANAIS DO 27° ENCONTRO NACIONAL DA REDE UNIVERSIDADE ABERTA DO SUS (UNA-SUS)</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">1</td>
+                <td class="s8">2021</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R89" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">90</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Projeto Patrino: um Aplicativo com Inteligência Artificial Aplicada no Gerenciamento de
+                    Bancos de Leite Humano.</td>
+                <td class="s7">SANTOS, S. ; VIEIRA, E. ; VIANA, D. ; SERRA, A. ; AZEVEDO, L. ; CARVALHO, P.</td>
+                <td class="s7">ANAIS ESTENDIDOS DO XV SIMPÓSIO BRASILEIRO DE SISTEMAS DE INFORMAÇÃO</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8">140-142</td>
+                <td class="s8">2019</td>
+                <td class="s8">SBC</td>
+                <td class="s9"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/sbsi_estendido/article/download/7458/7340/">Download</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R90" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">91</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Ecossistemas de Software na Indústria - Riscos e Oportunidades.</td>
+                <td class="s7">SANTOS, R. ; VIANA, D. </td>
+                <td class="s7">ANAIS DO XV SBQS</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">2016</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R91" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">92</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Tecnologias Facilitadoras de Aprendizagem Organizacional em Programas de Melhoria de
+                    Processo de Software. </td>
+                <td class="s10">VIANA, DAVI<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; SOUZA, C. ;
+                        CONTE, T.</span></td>
+                <td class="s7">1ST LATIN-AMERICAN SCHOOL ON SOFTWARE ENGINEERING</td>
+                <td class="s8">1</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">2013</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="552758252R92" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">93</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s7">Diagnóstico Inicial para avaliação MPS.BR nível G em empresa do grupo AmazonSoft. </td>
+                <td class="s10">SANTOS, D.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; CONTE, T. ;
+                        VIANA, P. ; XAVIER, C. M.</span></td>
+                <td class="s7">V FEIRA INTERNACIONAL DA AMAZÔNIA</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8">2009</td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+            </tr>

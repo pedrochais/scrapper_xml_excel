@@ -1,0 +1,92 @@
+
+Tecnologia
+Descrição
+Foto
+Artigo
+Arquivo/Link
++++++++++++++++++++++++++++++++++++++++++++++++
+Aplicativo para crianças autistas
+
+
+https://seer.ufrgs.br/renote/article/download/118421/64494
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Rota de Ada
+Ferramenta de suporte ao ensino das 10 heurísticas de Nielsen para design de interface.
+                
+https://img.itch.zone/aW1hZ2UvNzkwODk2LzQ4MTE4NzEucG5n/original/dK6k4i.png
+https://www.seer.ufrgs.br/renote/article/download/118486/64529
+https://flvdcrvlh.itch.io/rota-de-ada
++++++++++++++++++++++++++++++++++++++++++++++++
+Developing an Inspection Checklist for the Adequacy Assessment of Software Systems to Quality Attributes of the Brazilian General Data Protection Law: An Initial Proposal.
+
+
+https://dl.acm.org/doi/pdf/10.1145/3474624.3477069
+
++++++++++++++++++++++++++++++++++++++++++++++++
+TIMEG
+Uma ferramenta para auxiliar equipes de desenvolvimento de jogos educacionais digitais móveis na inspeção.
+
+https://dl.acm.org/doi/pdf/10.1145/3474624.3476013
+https://github.com/Kastney/TIMEG
++++++++++++++++++++++++++++++++++++++++++++++++
+Developing a Set of Design Patterns Specific for the Design of User Interfaces for Autistic Users.
+
+https://i.imgur.com/4iQ8A5U.png
+https://dl.acm.org/doi/pdf/10.1145/3472301.3484347
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Arriscando
+Um jogo para ensinar gerenciamento de riscos em projeto de software.
+https://i.imgur.com/6PLoq5D.png
+https://dl.acm.org/doi/pdf/10.1145/3364641.3364662
+https://sebastiaohns.github.io/arriscando/
++++++++++++++++++++++++++++++++++++++++++++++++
+Sistema de monitoramento em tempo real para transporte público da cidade de Manaus
+
+https://i.imgur.com/5v2yYq7.png
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwil88zFuN70AhWhA9QKHYUBCKcQFnoECAMQAQ&url=https%3A%2F%2Fsiaiap32.univali.br%2Fseer%2Findex.php%2Facotb%2Farticle%2Fdownload%2F17448%2F9932&usg=AOvVaw3Gjmm0-qoN1oYzB5ZZh7kv
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Protótipo de alta fidelidade de assistente virtual para instituições de ensino do estado do Amazonas
+
+https://i.imgur.com/uyHmr7L.png
+https://siaiap32.univali.br/seer/index.php/acotb/article/download/17449/9933
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Proposta de interface para um sistema inteligente para gerenciamento de energia fotovoltaica
+O objetivo da pesquisa é desenvolver um sistema web de baixo custo ao usuário para atender os sistemas de geração de energia. A ideia é que a interface seja adaptável a qualquer tipo de painel existente. O sistema poderá, inclusive, ser utilizado por usuários que construíram seu próprio sistema de geração de energia fotovoltaica.
+https://i.imgur.com/kKWiweX.png
+https://siaiap32.univali.br/seer/index.php/acotb/article/viewFile/17451/9934
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Proposta de um aplicativo de solicitação de atendimento médico remoto
+Visando agilizar o atendimento médico de emergência, princi- palmente a prestação dos primeiros socorros, este artigo apresenta a proposta de um sistema que utiliza um drone com o intuito de transportar os instrumentos e materiais necessários para auxiliar nestes casos de emergência, permitindo a realização de primeiros socorros pelos solicitantes cadastrados.
+https://i.imgur.com/tAHKBuB.png
+https://siaiap32.univali.br/seer/index.php/acotb/article/download/17452/9935
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Activies in Space
+O jogo sério Activities in Space serve para o ensino de Diagrama de Atividades. O jogo foi avaliado por alunos de graduação em computação e professores da área de Engenharia de Software de três universidades brasileiras. Os resultados da avaliação permitiram verificar que o jogo atende de forma satisfatória aos requisitos pedagógicos e de motivação, e que o mesmo é mais adequado como exercício de fixação por alunos com baixa experiência em modelagem.
+https://i.imgur.com/xetLW5Y.png
+https://www.sbgames.org/sbgames2019/files/papers/EducacaoShort/197053.pdf
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Fábrica de Software
+Um projeto para a capacitação de alunos do PETComp no desenvolvimento de sistemas de informação
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
+ Uma Proposta de Aplicação de Imersão virtual para o Tratamento de Fobias. 
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Pintando no Ar
+Software destinado a desenhar virtualmente sobre uma tela de projeção.
+https://i.imgur.com/ybk4sLu.png
+https://www.yumpu.com/pt/document/read/24350459/pintando-no-ar-uma-ferramenta-de-desenho-virtual-para-a-ilustraaao-
+
++++++++++++++++++++++++++++++++++++++++++++++++

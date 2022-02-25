@@ -1,0 +1,185 @@
+            <tr style="height: 19px">
+                <th id="37334015R1" style="height: 19px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 19px">2</div>
+                </th>
+                <td class="s1"></td> s2: tecnologia
+                <td class="s2">Tecnologia</td>
+                <td class="s2">Descrição</td>
+                <td class="s2">Foto</td>
+                <td class="s2">Artigo</td>
+                <td class="s2">Arquivo/Link</td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="37334015R2" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">3</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s3">Aplicativo para crianças autistas</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s4"><a target="_blank"
+                        href="https://seer.ufrgs.br/renote/article/download/118421/64494">Download</a></td>
+                <td class="s5"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="37334015R3" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">4</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s3">Rota de Ada</td>
+                <td class="s3">Ferramenta de suporte ao ensino das 10 heurísticas de Nielsen para design de interface.
+                </td>
+                <td class="s4"><a target="_blank"
+                        href="https://img.itch.zone/aW1hZ2UvNzkwODk2LzQ4MTE4NzEucG5n/original/dK6k4i.png">Imagem</a>
+                </td>
+                <td class="s4"><a target="_blank"
+                        href="https://www.seer.ufrgs.br/renote/article/download/118486/64529">Download</a></td>
+                <td class="s4"><a target="_blank" href="https://flvdcrvlh.itch.io/rota-de-ada">Site</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="37334015R4" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">5</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s3">Developing an Inspection Checklist for the Adequacy Assessment of Software Systems to Quality Attributes of the Brazilian General Data Protection Law: An Initial Proposal.</td>
+                <td class="s5"></td>
+                <td class="s6"></td>
+                <td class="s4"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3474624.3477069">Link</a>
+                </td>
+                <td class="s6"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="37334015R5" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">6</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s3">TIMEG</td>
+                <td class="s3">Uma ferramenta para auxiliar equipes de desenvolvimento de jogos educacionais digitais móveis na inspeção.</td>
+                <td class="s6"></td>
+                <td class="s4"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3474624.3476013">Link</a>
+                </td>
+                <td class="s4"><a target="_blank" href="https://github.com/Kastney/TIMEG">Repositório</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="37334015R6" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">7</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s3">Developing a Set of Design Patterns Specific for the Design of User Interfaces for Autistic Users.</td>
+                <td class="s3"></td>
+                <td class="s4"><a target="_blank" href="https://i.imgur.com/4iQ8A5U.png">Imagem</a></td>
+                <td class="s4"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3472301.3484347">Link</a>
+                </td>
+                <td class="s6"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="37334015R7" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">8</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s3">Arriscando</td>
+                <td class="s3">Um jogo para ensinar gerenciamento de riscos em projeto de software.</td>
+                <td class="s4"><a target="_blank" href="https://i.imgur.com/6PLoq5D.png">Imagem</a></td>
+                <td class="s4"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3364641.3364662">Link</a>
+                </td>
+                <td class="s4"><a target="_blank" href="https://sebastiaohns.github.io/arriscando/">Site</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="37334015R8" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">9</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s3">Sistema de monitoramento em tempo real para transporte público da cidade de Manaus</td>
+                <td class="s3"></td>
+                <td class="s4"><a target="_blank" href="https://i.imgur.com/5v2yYq7.png">Imagem</a></td>
+                <td class="s4"><a target="_blank"
+                        href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwil88zFuN70AhWhA9QKHYUBCKcQFnoECAMQAQ&amp;url=https%3A%2F%2Fsiaiap32.univali.br%2Fseer%2Findex.php%2Facotb%2Farticle%2Fdownload%2F17448%2F9932&amp;usg=AOvVaw3Gjmm0-qoN1oYzB5ZZh7kv">Download</a>
+                </td>
+                <td class="s6"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="37334015R9" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">10</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s3">Protótipo de alta fidelidade de assistente virtual para instituições de ensino do estado do Amazonas</td>
+                <td class="s3"></td>
+                <td class="s4"><a target="_blank" href="https://i.imgur.com/uyHmr7L.png">Imagem</a></td>
+                <td class="s4"><a target="_blank"
+                        href="https://siaiap32.univali.br/seer/index.php/acotb/article/download/17449/9933">Link</a>
+                </td>
+                <td class="s6"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="37334015R10" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">11</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s3">Proposta de interface para um sistema inteligente para gerenciamento de energia fotovoltaica</td>
+                <td class="s3">O objetivo da pesquisa é desenvolver um sistema web de baixo custo ao usuário para atender os sistemas de geração de energia. A ideia é que a interface seja adaptável a qualquer tipo de painel existente. O sistema poderá, inclusive, ser utilizado por usuários que construíram seu próprio sistema de geração de energia fotovoltaica.</td>
+                <td class="s4"><a target="_blank" href="https://i.imgur.com/kKWiweX.png">Imagem</a></td>
+                <td class="s4"><a target="_blank"
+                        href="https://siaiap32.univali.br/seer/index.php/acotb/article/viewFile/17451/9934">Link</a>
+                </td>
+                <td class="s6"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="37334015R11" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">12</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s3">Proposta de um aplicativo de solicitação de atendimento médico remoto</td>
+                <td class="s3">Visando agilizar o atendimento médico de emergência, princi- palmente a prestação dos primeiros socorros, este artigo apresenta a proposta de um sistema que utiliza um drone com o intuito de transportar os instrumentos e materiais necessários para auxiliar nestes casos de emergência, permitindo a realização de primeiros socorros pelos solicitantes cadastrados.</td>
+                <td class="s4"><a target="_blank" href="https://i.imgur.com/tAHKBuB.png">Imagem</a></td>
+                <td class="s4"><a target="_blank"
+                        href="https://siaiap32.univali.br/seer/index.php/acotb/article/download/17452/9935">Download</a>
+                </td>
+                <td class="s6"></td>
+            </tr>
+            <tr style="height: 50px">
+                <th id="37334015R12" style="height: 50px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 50px">13</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s6">Activies in Space</td>
+                <td class="s6">O jogo sério Activities in Space serve para o ensino de Diagrama de Atividades. O jogo foi avaliado por alunos de graduação em computação e professores da área de Engenharia de Software de três universidades brasileiras. Os resultados da avaliação permitiram verificar que o jogo atende de forma satisfatória aos requisitos pedagógicos e de motivação, e que o mesmo é mais adequado como exercício de fixação por alunos com baixa experiência em modelagem.</td>
+                <td class="s4"><a target="_blank" href="https://i.imgur.com/xetLW5Y.png">Imagem</a></td>
+                <td class="s4"><a target="_blank"
+                        href="https://www.sbgames.org/sbgames2019/files/papers/EducacaoShort/197053.pdf">Link</a></td>
+                <td class="s6"></td>
+            </tr>
+            <tr style="height: 50px">
+                <th id="37334015R13" style="height: 50px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 50px">14</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s6">Fábrica de Software</td>
+                <td class="s6">Um projeto para a capacitação de alunos do PETComp no desenvolvimento de sistemas de informação</td>
+                <td class="s6"></td>
+                <td class="s6"></td>
+                <td class="s6"></td>
+            </tr>
+            <tr style="height: 50px">
+                <th id="37334015R14" style="height: 50px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 50px">15</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s6"> Uma Proposta de Aplicação de Imersão virtual para o Tratamento de Fobias. </td>
+                <td class="s6"></td>
+                <td class="s6"></td>
+                <td class="s6"></td>
+                <td class="s6"></td>
+            </tr>
+            <tr style="height: 50px">
+                <th id="37334015R15" style="height: 50px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 50px">16</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s6">Pintando no Ar</td>
+                <td class="s6">Software destinado a desenhar virtualmente sobre uma tela de projeção.</td>
+                <td class="s4"><a target="_blank" href="https://i.imgur.com/ybk4sLu.png">Imagem</a></td>
+                <td class="s4"><a target="_blank"
+                        href="https://www.yumpu.com/pt/document/read/24350459/pintando-no-ar-uma-ferramenta-de-desenho-virtual-para-a-ilustraaao-">Link</a>
+                </td>
+                <td class="s6"></td>
+            </tr>

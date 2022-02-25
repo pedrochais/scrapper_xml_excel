@@ -1,0 +1,926 @@
+Artigos completos publicados em periódicos
++++++++++++++++++++++++++++++++++++++++++++++++
+Título
+Autores
+
+Revista/Periódico
+
+
+Volume
+
+
+Número
+
+Página(s)
+Ano
+Editora
+Arquivo/Link
++++++++++++++++++++++++++++++++++++++++++++++++
+ Mineracão de dados da educação básica brasileira usando as bases do INEP: Uma revisão sistemática da literatura. 
+DE CASTRO SOARES, RAIMUNDO ; WEBER NETO, NELSON ; REIS COUTINHO, LUCIANO ; DA SILVA E SILVA, FRANCISCO JOSÉ ; VIANA DOS SANTOS, DAVI ; SOARES TELES, ARIEL
+RENOTE
+19
+1
+361-370
+2021
+
+https://www.seer.ufrgs.br/renote/article/download/118526/64553
++++++++++++++++++++++++++++++++++++++++++++++++
+Árvore de ECOS: Um Jogo para Ensino de Conceitos de Ecossistemas de Software.
+ERREIRA, THAÍS DE SOUZA DELUCA ; VIANA, DAVI ; SANTOS, RODRIGO PEREIRA DOS
+REVISTA BRASILEIRA DE INFORMÁTICA NA EDUCAÇÃO
+29
+
+273-300
+2021
+
+http://www.br-ie.org/pub/index.php/rbie/article/download/v29p273/6775
++++++++++++++++++++++++++++++++++++++++++++++++
+Multitaper-based method for automatic k-complex detection in human sleep EEG
+OLIVEIRA, GUSTAVO H.B.S. ; COUTINHO, LUCIANO R. ; SILVA, JOSENILDO C. DA ; PINTO, IVAN J.P. ; FERREIRA, JÚLIA M.S. ; SILVA, FRANCISCO J.S. ; SANTOS, DAVI V. ; TELES, ARIEL S. 
+EXPERT SYSTEMS WITH APPLICATIONS
+151
+
+113331
+2020
+Elsevier
+https://www.sciencedirect.com/science/article/abs/pii/S0957417420301561
++++++++++++++++++++++++++++++++++++++++++++++++
+Mental Health Ubiquitous Monitoring Supported by Social Situation Awareness: A Systematic Review.
+MOURA, IVAN ; TELES, ARIEL ; SILVA, FRANCISCO ; VIANA, DAVI ; COUTINHO, LUCIANO ; BARROS, FLÁVIO ; ENDLER, MARKUS
+JOURNAL OF BIOMEDICAL INFORMATICS
+107
+
+103454
+2020
+Elsevier
+https://reader.elsevier.com/reader/sd/pii/S1532046420300824?token=CED61F3C7EDEB8ED54DE98224C7810B7406EE37928B22B95B6A9A33869D4E4D80F0026D48F8F40458FE5948843D30782&originRegion=us-east-1&originCreation=20211210132704
++++++++++++++++++++++++++++++++++++++++++++++++
+Neighborhood-aware Mobile Hub: An Edge Gateway with Leader Election Mechanism for Internet of Mobile Things.
+SILVA, M. ; TELES, ARIEL ; LOPES, R. F. ; SILVA, F. J. S. E. ; VIANA,     DAVI ; COUTINHO,     LUCIANO ; GUPTA, N. ; ENDLER, M.
+MOBILE NETWORKS AND APPLICATIONS
+
+
+1-14
+2020
+Springer
+https://link.springer.com/article/10.1007/s11036-020-01630-3
++++++++++++++++++++++++++++++++++++++++++++++++
+ An ontology-based approach to integrate TV and IoT middlewares.
+PEREIRA, DANNE MAKLEYSTON G. ; DA S. E SILVA, FRANCISCO JOSÉ ; DE SALLES S. NETO, CARLOS ; DOS SANTOS, DAVI VIANA ; COUTINHO, LUCIANO REIS ; GUEDES, ÁLAN L. V.
+MULTIMEDIA TOOLS AND APPLICATIONS
+80
+2
+1813-1837
+2021
+Springer
+https://link.springer.com/article/10.1007/s11042-020-09645-4
++++++++++++++++++++++++++++++++++++++++++++++++
+Evoluindo um Perfil UML para Jogos Sérios através da Taxonomia de Bloom. 
+PERES JUNIOR, Francisco das Chagas ; OLIVEIRA, Leandro Massetti Ribeiro ; BOTTENTUIT JUNIOR, João Batista ; SANTOS, D. ; BARRADAS FILHO, Alex Oliveira
+REVISTA TECNOLOGIAS NA EDUCAÇÃO
+30
+
+1-14
+2019
+
+http://tecedu.pro.br/wp-content/uploads/2019/12/Art8-Ano-11-vol30-Novembro-2019.pdf
++++++++++++++++++++++++++++++++++++++++++++++++
+Identificação de Métricas de Avaliação do Potencial Pedagógico de Ferramentas Lúdicas.
+                
+ARANHA JUNIOR, José Roberto de Araújo ; OLIVEIRA, Vanessa Mota ; BARRADAS FILHO, Alex Oliveira ; BOTTENTUIT JUNIOR, João Batista ; SANTOS, D.
+REVISTA TECNOLOGIAS NA EDUCAÇÃO
+30
+
+1-13
+2019
+
+https://tecedu.pro.br/wp-content/uploads/2019/12/Art15-Ano-11-vol30-Novembro-2019.pdf
++++++++++++++++++++++++++++++++++++++++++++++++
+Avaliação do Google Sala de Aula como Ferramenta de Apoio ao Processo de Ensino-aprendizagem em um Curso de Licenciatura em Ciências Biológicas Presencial.
+MARTINS, J. ; TELES, A. S. ; SANTOS, D. ; DA SILVA E SILVA, FRANCISCO ; COUTINHO, L. R. ; TEIXEIRA, S. S.
+RENOTE
+17
+3
+587-596
+2019
+
+https://www.seer.ufrgs.br/renote/article/download/99544/55686
++++++++++++++++++++++++++++++++++++++++++++++++
+Objetos Digitais de Aprendizagem no Ensino de Física Básica: Um estudo de caso com simuladores virtuais em uma escola de ensino público estadual.
+CARVALHO, A. ; TELES, A. S. ; SANTOS,     D. ; SILVA, F. J.     S. E. ; COUTINHO, L. R. ; TEIXEIRA, S. S.
+RENOTE
+17
+3
+263-272
+2019
+
+https://www.seer.ufrgs.br/renote/article/download/99481/55654
++++++++++++++++++++++++++++++++++++++++++++++++
+A Simulation-Based Method for Prediction of Acquisition Costs of Constituents of a System-of-Systems. 
+GRACIANO NETO, VALDEMAR VICENTE ; HORITA, FLÁVIO EDUARDO AOKI ; SANTOS, R. P. ; SANTOS, D. ; KASSAB, MOHAMAD ; MANZANO, WALLACE ; NAKAGAWA, ELISA YUMI 
+ISYS - BRAZILIAN JOURNAL OF INFORMATION SYSTEM
+12
+4
+6-35
+2019
+
+https://sol.sbc.org.br/journals/index.php/isys/article/download/779/734/1027
++++++++++++++++++++++++++++++++++++++++++++++++
+Edubot: um estudo prático de aprendizagem baseada em problemas no contexto de agentes inteligentes e jogos sérios.
+LIMA, T. ; MENEZES, R. ; BARRADAS FILHO, A. O. ; VIANA, DAVI ; BOTTENTUIT JUNIOR, J. B.
+                
+
+27
+
+6
+2018
+
+https://d1wqtxts1xzle7.cloudfront.net/60256907/Artigo_Thamyla_-_TE20190810-38957-16am4n1.pdf?1565487384=&response-content-disposition=inline%3B+filename%3DEdubot_um_estudo_pratico_de_aprendizagem.pdf&Expires=1639147647&Signature=HIMltrGF17ypf5F2Z~-cj7tRv97NNJ1JI-DKQj3-0mm2yoZKLSMUc~hdlpjOllw3LHDZTrkPz8EgmwgP~1ix8WpamlWpSrU~U64h2pMKIAd9IMD-6CUBPv071CsUwEpA3cD2Pb0KLI3GSbz2P3yiaLcmlnYQn-HzRoI3w803E9vuocVCn-n8V6SExC8dKwEvhpNfEhVN2eUZOF2~seQiuSfd-M-CPnk9btQXfQa5iFh8hrzC8KSkt6UFJBBEVUQc3Z-6GjgBM-S9cL7pPGx3LSheH9wO-N2PTsdE~DdOc3iBHVWs3YLnz7TorjK-q6oaZo4kKZlNMog7rVcVkhfp6w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
++++++++++++++++++++++++++++++++++++++++++++++++
+A Middleware with Comprehensive Quality of Context Support for the Internet of Things Applications.
+GOMES, BERTO ; MUNIZ, LUIZ ; DA SILVA E SILVA, FRANCISCO ; DOS SANTOS, DAVI ; LOPES, RAFAEL ; COUTINHO, LUCIANO ; CARVALHO, FELIPE ; ENDLER, MARKUS
+SENSOR
+17
+12
+2853
+2017
+Multidisciplinary Digital Publishing Institute
+http://a.c
++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Capítulos de livros publicados
++++++++++++++++++++++++++++++++++++++++++++++++
+Título
+Autores
+
+Revista/Periódico
+
+
+Volume
+
+
+Número
+
+Página(s)
+Ano
+Editora
+Arquivo/Link
++++++++++++++++++++++++++++++++++++++++++++++++
+Desenvolvendo ChatBots com o Dialogflow.
+CORREA, J. ; VIANA, DAVI ; TELES, ARIEL
+SOCIEDADE BRASILEIRA DE COMPUTAÇÃO
+
+
+
+2021
+
+https://sol.sbc.org.br/livros/index.php/sbc/catalog/download/76/321/577-1
++++++++++++++++++++++++++++++++++++++++++++++++
+Acessibilidade para Cursos de Educação à Distância: Experiência Exitosa.
+OLIVEIRA, A. E. F. ; TEIXEIRA, M. A. M. ; CARVALHO, T. Q. A. ; VIANA,     DAVI ; GARCIA, P.     T. ; COSTA, Y. ; SANT?ANNA, M. C. S. ; MUNIZ, A. K. O. A.
+
+1
+
+171-184
+2021
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
+ Towards a Conceptual Model to Understand Software Ecosystems Emerging from Systems-of-Information Systems.
+Graciano Neto, Valdemar Vicente ; SANTOS, RODRIGO PEREIRA DOS ; VIANA, DAVI ; Araujo, Renata 
+
+1081
+
+1-20
+2020
+
+https://link.springer.com/chapter/10.1007/978-3-030-46130-0_1
++++++++++++++++++++++++++++++++++++++++++++++++
+Linking Knowledge Mapping and Lessons Learned in a Research and Development Group: A Pilot Study.
+SILVA FILHO, E. ; VIANA, DAVI ; RABELO, J. ; CONTE, T.
+INTERNATIONAL CONFERENCE ON ENTERPRISE INFORMATION SYSTEMS
+
+
+200-224
+2016
+Springer
+https://link.springer.com/chapter/10.1007/978-3-319-62386-3_10
++++++++++++++++++++++++++++++++++++++++++++++++
+Ecossistemas de Software no Desenvolvimento de Plataformas para Web, Redes Sociais e Multimídia.
+SANTOS, R. ; VIANA, D.
+SOCIEDADE BRASILEIRA DE COMPUTAÇÃO
+3
+
+93-118
+2016
+
+https://sol.sbc.org.br/livros/index.php/sbc/catalog/download/14/48/98-1
++++++++++++++++++++++++++++++++++++++++++++++++
+Ecossistemas de Software: Uma Visão sobre Fatores Técnicos, Humanos e Organizacionais.
+                
+SANTOS, R. ; VIANA,     D. ; MACIEL,     C.
+LIVRO DOS TUTORIAIS DO XV IHC. 15ED. PORTO ALEGRE
+100
+
+70-90
+2016
+SBC
+
++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Trabalhos completos publicados em anais de congresso
++++++++++++++++++++++++++++++++++++++++++++++++
+Título
+Autores
+
+Revista/Periódico
+
+
+Volume
+
+
+Número
+
+Página(s)
+Ano
+Editora
+Arquivo/Link
++++++++++++++++++++++++++++++++++++++++++++++++
+Business Model for Brazilian Indie Game Studios in Game Software Ecosystems.
+XAVIER, BRUNO ; VIANA, DAVI ; SANTOS, RODRIGO 
+XVII BRAZILIAN SYMPOSIUM ON INFORMATION SYSTEMS
+
+
+1-8
+2021
+
+https://dl.acm.org/doi/pdf/10.1145/3466933.3466956
++++++++++++++++++++++++++++++++++++++++++++++++
+Developer Relations (DevRel) Roles: an Exploratory Study on Practitioners? opinions.
+OLIVEIRA, RAPHAEL ; AJALA, CAMILA ; VIANA, DAVI ; CAFEO, BRUNO ; FONTÃO, AWDREN
+BRAZILIAN SYMPOSIUM ON SOFTWARE ENGINEERING
+1
+
+363-367
+2021
+
+https://dl.acm.org/doi/pdf/10.1145/3474624.3474628
++++++++++++++++++++++++++++++++++++++++++++++++
+Software Ecosystems and Digital Games: Understanding the Financial Sustainability Aspect.
+                
+VIANA DOS SANTOS, DAVI; PEREIRA DOS SANTOS, RODRIGO ; LOPES XAVIER, BRUNO
+ICEIS
+2
+
+450-457
+2020
+
+https://www.scitepress.org/Papers/2020/97942/97942.pdf
++++++++++++++++++++++++++++++++++++++++++++++++
+Product Quality for Smart Cities Applications: A Mapping Study.
+MACHADO, LEONARDO RIBEIRO ; SILVA, FRANCISCO J. DA ; BARRADAS, ALEX ; VIANA, DAVI ; TELES, ARIEL ; COUTINHO, LUCIANO
+XVI BRAZILIAN SUMPOSIUM ON INFORMATION SYSTEMS
+1
+
+1-8
+2020
+
+https://dl.acm.org/doi/pdf/10.1145/3411564.3411639
++++++++++++++++++++++++++++++++++++++++++++++++
+An Exploratory Study on Developers Opinions about Influence in Open Source Software Ecosystems. 
+CONDINA, VINICIUS ; MALCHER, PAULO ; FARIAS, VICTOR ; SANTOS, RODRIGO ; FONTÃO, AWDREN ; WIESE, IGOR ; VIANA, DAVI
+PROCEEDINGS OF THE 34TH BRAZILIAN SYMPOSIUM ON SOFTWARE ENGINEERING
+
+
+137-146
+2020
+
+https://dl.acm.org/doi/pdf/10.1145/3422392.3422404
++++++++++++++++++++++++++++++++++++++++++++++++
+Evaluating the Understandability and Expressiveness of Simulation Executable Models with Professionals.
+LEBTAG, BRUNO GABRIEL ARAÚJO ; TEIXEIRA, PAULO GABRIEL ; SANTOS, RODRIGO PEREIRA DOS ; VIANA, DAVI ; NETO, VALDEMAR V. GRACIANO
+ANAIS DO XIX SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE
+1
+
+111-120
+2020
+SBC
+https://dl.acm.org/doi/pdf/10.1145/3439961.3439973
++++++++++++++++++++++++++++++++++++++++++++++++
+A Domain-Specific Modeling Language for Specification of Clinical Scores in Mobile Health.
+COUTINHO, LUCIANO ; SILVA, FRANCISCO ; SANTOS, DAVI ; BARBOSA, ALLAN ; TELES, ARIEL
+ENASE
+1
+
+104-113
+2019
+
+https://www.scitepress.org/Papers/2019/77281/77281.pdf
++++++++++++++++++++++++++++++++++++++++++++++++
+Mobile Mental Health: A Review of Applications for Depression Assistance.
+TELES, ARIEL ; RODRIGUES, IVAN ; VIANA, DAVI ; SILVA, FRANCISCO ; COUTINHO, LUCIANO ; ENDLER, MARKUS ; RABELO, RICARDO
+2019 IEEE 32ND INTERNATIONAL SYMPOSIUM ON COMPUTER-BASED MEDICAL SYSTEMS (CBMS)
+
+
+708-713
+2019
+IEEE
+https://ieeexplore.ieee.org/abstract/document/8787406
++++++++++++++++++++++++++++++++++++++++++++++++
+Objetos Digitais de Aprendizagem de Ciências Biológicas no Ensino Fundamental e Médio: Uma Revisão Sistemática da Literatura Brasileira.
+MELO, NICOLAS ; LIMA, FRANCIANE ; SOUSA, CLAUDIENE CANTANHEDE ; TELES, ARIEL ; VIANA, DAVI ; RIBEIRO-NOVAES, EVILLE ; SILVA, FRANCISCO JOSE 
+BRAZILIAN SYMPOSIUM ON COMPUTER IN EDUCATION (SBIE)
+30
+1
+269
+2019
+
+http://www.br-ie.org/pub/index.php/sbie/article/download/8731/6292
++++++++++++++++++++++++++++++++++++++++++++++++
+How Much Does It Cost? A Simulation-Based Method for Cost Prediction in Systems-of-Systems Acquisition Processes.
+GRACIANO NETO, VALDEMAR V. ; HORITA, FLÁVIO E. A. ; VIANA, DAVI ; KASSAB, MOHAMAD ; DOS SANTOS, RODRIGO P.
+ANAIS DO III WORKSHOP SOBRE ASPECTOS SOCIAIS, HUMANOS E ECONÔMICOS DE SOFTWARE
+1
+
+
+2018
+SBC
+https://sol.sbc.org.br/index.php/washes/article/download/3473/3432/
++++++++++++++++++++++++++++++++++++++++++++++++
+Identifying emerging topics and difficulties in software engineering education in Brazil.
+                
+FERREIRA, THAÍS ; VIANA, DAVI ; FERNANDES, JULIANA ; SANTOS, RODRIGO
+PROCEEDINGS OF THE XXXII BRAZILIAN SYMPOSIUM ON SOFTWARE ENGINEERING
+1
+
+230-239
+2018
+
+https://dl.acm.org/doi/pdf/10.1145/3266237.3266247
++++++++++++++++++++++++++++++++++++++++++++++++
+Realising Individual and Team Capability in Agile Software Development: A Qualitative Investigation.
+MENDES, EMILIA ; VIANA, DAVI ; DATTA VISHNUBHOTLA, SAI ; LUNDBERG, LARS
+2018 44TH EUROMICRO CONFERENCE ON SOFTWARE ENGINEERING AND ADVANCED APPLICATIONS
+1
+
+183-190
+2018
+IEEE
+https://ieeexplore.ieee.org/abstract/document/8498204
++++++++++++++++++++++++++++++++++++++++++++++++
+Perceptions of Learning Management System application in Computer Undergraduate Courses.
+                
+SILVA, KATIA ; KRONBAUER, CLAUDETE ; VIANA, DAVI 
+PROCEEDINGS OF THE EURO AMERICAN CONFERENCE ON TELEMATICS AND INFORMATION SYSTEMS
+1
+
+1-8
+2018
+
+https://dl.acm.org/doi/pdf/10.1145/3293614.3293637
++++++++++++++++++++++++++++++++++++++++++++++++
+How Have Software Engineering Researchers Been Measuring Software Productivity? A Systematic Mapping Study.
+OLIVEIRA, E. ; VIANA, D. ; CRISTO, M. ; CONTE, T. 
+INTERNATIONAL CONFERENCE ON ENTERPRISE INFORMATION SYSTEMS
+2
+
+76-87
+2017
+SCITEPRESS
+https://www.scitepress.org/papers/2017/63144/63144.pdf
++++++++++++++++++++++++++++++++++++++++++++++++
+An Exploratory Study on the Need for Modeling Software Ecosystems: The Case of SOLAR SECO.
+COUTINHO, EMANUEL FERREIRA ; VIANA, DAVI ; SANTOS, RODRIGO PEREIRA DOS 
+2017 IEEE/ACM 9TH INTERNATIONAL WORKSHOP ON MODELING IN SOFTWARE ENGINEERING
+
+
+47-53
+2017
+IEEE
+https://ieeexplore.ieee.org/abstract/document/7964595
++++++++++++++++++++++++++++++++++++++++++++++++
+EvidenceSET: A Tool for Supporting Analysis of Evidence and Synthesis of Primary and Secondary Studies.
+BARBOSA, O. ; SANTOS, R. ; VIANA, D.
+ANAIS DO VIII CONGRESSO BRASILEIRO DE SOFTWARE: TEORIA E PRÁTICA, SESSÃO DE FERRAMENTAS
+                
+1
+
+73-80
+2017
+
+https://www.researchgate.net/profile/Olavo-Barbosa/publication/320193858_EvidenceSET_A_Tool_for_Supporting_Analysis_of_Evidence_and_Synthesis_of_Primary_and_Secondary_Studies/links/59d44091a6fdcc181ad953bb/EvidenceSET-A-Tool-for-Supporting-Analysis-of-Evidence-and-Synthesis-of-Primary-and-Secondary-Studies.pdf
++++++++++++++++++++++++++++++++++++++++++++++++
+Práticas para Tratamento de Fatores Críticos de Sucesso.
+FREIRE, R. ; VIANA, DAVI ; SANTOS, G.
+ANAIS DO XVI SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE
+
+
+176-190
+2017
+SBC
+https://sol.sbc.org.br/index.php/sbqs/article/download/15100/14945/
++++++++++++++++++++++++++++++++++++++++++++++++
+Knowledge Mapping in a Research and Development Group - A Pilot Study.
+SILVA FILHO, E. ; VIANA, D. ; RABELO, J. ; CONTE, T.
+INTERNATIONAL CONFERENCE ON ENTERPRISE INFORMATION SYSTEMS
+2
+
+306-317
+2016
+SCITEPRESS
+https://www.scitepress.org/papers/2016/58318/58318.pdf
++++++++++++++++++++++++++++++++++++++++++++++++
+Um estudo sobre a relação entre Processo e Motivação em Equipes de Desenvolvimento de Software.
+XAVIER, DANIEL ; VIANA, DAVI ; GADELHA, BRUNO
+ANAIS DO XII SIMPÓSIO BRASILEIRO DE SISTEMAS DE INFORMAÇÃO
+1
+
+76-83
+2016
+SBC
+https://sol.sbc.org.br/index.php/sbsi/article/download/5948/5846/
++++++++++++++++++++++++++++++++++++++++++++++++
+Facilitando a Aprendizagem Organizacional em Melhoria de Processo de Software.
+VIANA, D.; SOUZA, C. ;     CONTE, T.
+ANAIS DO XV SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE
+1
+
+391-405
+2016
+SBC
+https://sol.sbc.org.br/index.php/sbqs/article/download/15148/14993/
++++++++++++++++++++++++++++++++++++++++++++++++
+Knowledge Creation and Loss within a Software Organization: An Exploratory Case Study.
+                
+VIANA, D.; CONTE, T. ;     MARCZAK, S. ; FERREIRA, R. ; SOUZA, C.
+2015 48TH HAWAII INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES
+1
+
+3980-3989
+2015
+IEEE
+https://ieeexplore.ieee.org/abstract/document/7070296
++++++++++++++++++++++++++++++++++++++++++++++++
+ Applying Knowledge Codification in a Post-mortem Process - A Practical Experience. 
+SILVA FILHO, E. ; VIANA, D. ; CONTE, T. 
+INTERNATIONAL CONFERENCE ON ENTERPRISE INFORMATION SYSTEMS
+2
+
+153-165
+2015
+SCITEPRESS
+https://www.scitepress.org/papers/2015/53763/53763.pdf
++++++++++++++++++++++++++++++++++++++++++++++++
+Knowledge Transfer between Senior and Novice Software Engineers: A Qualitative Analysis.
+                
+VIANA, D.; CONTE, T. ;     SOUZA, C.
+SEKE
+
+
+235-240
+2014
+
+https://www.researchgate.net/profile/Davi-Viana-2/publication/289262936_Knowledge_transfer_between_senior_and_novice_software_engineers_A_qualitative_analysis/links/56b8a91408ae5ad3605f49e1/Knowledge-transfer-between-senior-and-novice-software-engineers-A-qualitative-analysis.pdf
++++++++++++++++++++++++++++++++++++++++++++++++
+Usando PABC-Pattern para Codificar o Conhecimento: Um estudo Experimental.
+RABELO, J. ; VIANA,     D. ; SANTOS, G. ;     CONTE, T.
+ANAIS DO XIII SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE
+
+
+1-15
+2014
+SBC
+https://sol.sbc.org.br/index.php/sbqs/article/download/15240/15084/
++++++++++++++++++++++++++++++++++++++++++++++++
+Usando Análise de Redes Sociais para Investigar a Disseminação do Conhecimento em Melhorias de Processos de Software.
+VIANA, D.; DE SOUZA,     C.R.B. ; CABRAL, R. ; DIB, M. ; VIEIRA, A. ; FERREIRA, R. ; CONTE, T.
+ANAIS DO XIII SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE
+
+
+180-194
+2014
+SBC
+https://sol.sbc.org.br/index.php/sbqs/article/download/15252/15096/
++++++++++++++++++++++++++++++++++++++++++++++++
+InspSoft 2.0: Um Jogo para o Ensino de Inspeção de Software.
+LOPES, A. ; VIANA, D. ; RABELO, J. ; VIEIRA, A. ; CONTE, T.
+ANAIS DO XII SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE
+
+
+95-107
+2013
+SBC
+https://sol.sbc.org.br/index.php/sbqs/article/download/15276/15119/
++++++++++++++++++++++++++++++++++++++++++++++++
+Evaluating the REMO-EKD technique: A technique for the elicitation of software requirements based on EKD organizational models.
+DE OLIVEIRA, MARCOS ; VIANA, DAVI ; CONTE, TAYANA ; VIEIRA, SERGIO ; MARCZAK, SABRINA
+                
+2013 3RD INTERNATIONAL WORKSHOP ON EMPIRICAL REQUIRIMENTS ENGINEERING (EMPIRE)
+
+
+9-16
+2013
+IEEE
+https://ieeexplore.ieee.org/abstract/document/6615210
++++++++++++++++++++++++++++++++++++++++++++++++
+Using Empirical Studies to Evaluate the REMO Requirement Elicitation Technique. 
+VIEIRA, S. ; SANTOS, D. ; NASCIMENTO, R. ; CONTE, T.
+SEKE
+
+
+33-38
+2012
+
+https://d1wqtxts1xzle7.cloudfront.net/53706480/Using_Empirical_Studies_to_evaluate_the_20170629-3071-tmzeey-with-cover-page-v2.pdf?Expires=1639228595&Signature=gPatLjk0lQiTHJSxrkhvcS16FrBv7XrOpi40L-CSizhTNjbVZocb2gvHSf5Xri~EA-7~qJRIkiAG8TDbdF3VMGuGRDc1Fu7vtHlqj7GZ97jmFddHm9C~DNF7CFUFQZHdkwljpOmgR3nqOIFf51CE63yuPKfBQEb-w1rhxSGi7DFkZbgCb~7wnWFmI2axSC38bTpTn1SBXOozJ~4LALMGNYFwGKlEpZdo73ILjgizV5L-cfMoDwupsMAIimQ5HpzQUpk-bKdCT8-NGJWQ9XJ45CoZSuybf0niN4ux5oQoS91r8sEuc~RB2wun9aqh6~7l61sMW5mdeIynwK3q1a4Uwg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
++++++++++++++++++++++++++++++++++++++++++++++++
+Comparing Knowledge Codification Approaches: An Empirical Study. 
+RABELO, J. ; SANTOS,     D. ; CONTE, T. ;     SANTOS, G.
+2012 BRAZILIAN SYMPOSIUM ON COLABORATIVE SYSTEMS
+
+
+136-145
+2012
+IEEE
+https://www.researchgate.net/profile/Gleison-Santos/publication/261169618_Comparing_Knowledge_Codification_Approaches_An_Empirical_Study/links/0deec533b1a1fa3914000000/Comparing-Knowledge-Codification-Approaches-An-Empirical-Study.pdf
++++++++++++++++++++++++++++++++++++++++++++++++
+Avaliando uma Técnica para Extrair Requisitos a partir de Diagramas de Processos de Negócios através de Estudos Experimentais.
+VIEIRA, S. ; VIANA, D. ; NASCIMENTO, R. ; CONTE, T.
+PROCEEDINGS OF THE 38TH CONFERENCIA LATINOAMERICANA EM INFORMATICA
+1
+
+
+2012
+
+https://d1wqtxts1xzle7.cloudfront.net/53706499/Avaliando_uma_Tcnica_para_Extrair_Requis20170629-3066-hzt1b6-with-cover-page-v2.pdf?Expires=1639228884&Signature=I44IrbxvWW2RKYkJvLmFmn2vvJthic9ZmfQ9paQThmZnSo4H2iYS-X073rQx7ZDWNkFQ6Ml6LIAMmEOGblyQ9DBWOwT-VHq4Wn3k65G3yUqGvHdllwnFRn9xocRHYD3an~woRO0~qQb7WlkhehL5LlnuJ~-Bvs4fhycBYfsknQtApv6mJKaX~6rUTlvKSUSP~n-e-5efrhSbRAl-nK-R7P9rcb1FuJDv5puWeoZ-m6mQA5SK50TLYws-DC5eD5zOaZN49708275EDovJcISoneC1ef4F34GJKXALI3HvElt7AFluPpalnMGrGo5P~0ACRG3W5WnoJKqLKNaFfas56g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
++++++++++++++++++++++++++++++++++++++++++++++++
+Aspectos humanos que afetam um programa de melhoria de processo de software - Uma análise qualitativa.
+SANTOS, D.; VILELA, D.     ; SOUZA, C. ; CONTE, T.
+CIBSE
+1
+
+157-170
+2011
+
+https://www.researchgate.net/profile/Tayana-Conte/publication/266036042_Aspectos_humanos_que_afetam_um_programa_de_melhoria_de_processo_de_software_-Uma_analise_qualitativa/links/54ad6b870cf2213c5fe3f207/Aspectos-humanos-que-afetam-um-programa-de-melhoria-de-processo-de-software-Uma-analise-qualitativa.pdf
++++++++++++++++++++++++++++++++++++++++++++++++
+Programas de Melhoria de Processo de Software ? Uma pesquisa sobre a influência dos aspectos humanos.
+SANTOS, D.; VILELA, D.     ; SOUZA, C. ; CONTE, T.
+ANAIS DO X SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE
+1
+
+183-197
+2011
+SBC
+https://sol.sbc.org.br/index.php/sbqs/article/download/15395/15238/
++++++++++++++++++++++++++++++++++++++++++++++++
+Uma análise do aspecto motivacional na implementação de um Programa de Melhoria de Processo de Software.
+SANTOS, D.; RABELO, J.     ; CONTE, T.
+ANAIS DO X SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE
+1
+
+5-15
+2011
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiW8vfw3tv0AhVOH7kGHWXQDFoQFnoECAIQAQ&url=https%3A%2F%2Fsol.sbc.org.br%2Findex.php%2Fsbqs%2Farticle%2Fdownload%2F15395%2F15238%2F&usg=AOvVaw3r8-t9084FdwqkCOntjDSb
++++++++++++++++++++++++++++++++++++++++++++++++
+Resultados de um Estudo Qualitativo sobre a implementação do modelo MPS em empresas do programa AmazonSoft.
+SANTOS, D.; RABELO, J.     ; MAR, C. ; AGUIAR, E. ; VIANA, P. ; VILELA, D. ; CONTE, T.
+VI WORKSHOP ANUAL DO MPS
+2
+
+138-147
+2010
+
+https://www.researchgate.net/profile/Davi-Viana-2/publication/309284153_Resultados_de_um_Estudo_Qualitativo_sobre_a_implementacao_do_modelo_MPS_em_empresas_do_programa_AmazonSoft/links/581b259008ae40da2ca8cddd/Resultados-de-um-Estudo-Qualitativo-sobre-a-implementacao-do-modelo-MPS-em-empresas-do-programa-AmazonSoft.pdf
++++++++++++++++++++++++++++++++++++++++++++++++
+Evoluindo uma Técnica de Avaliação de Usabilidade através de Estudos In Vitro e In Vivo.
+                
+GOMES, M. ; SANTOS, F. ; SANTOS,     D. ; CONTE, T. ;     TRAVASSOS, G.
+ANAIS DO IX SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE
+1
+
+229-243
+2010
+SBC
+https://sol.sbc.org.br/index.php/sbqs/article/download/15432/15275/
++++++++++++++++++++++++++++++++++++++++++++++++
+Aplicando Grounded Theory para Compreender os Fatores Críticos de Sucesso em Iniciativas de Melhoria de Processo de Software.
+Matos, O. ; SECATTI, V. ; SANTOS, D. ; OLIVEIRA, H. ; CONTE, T.
+VI WOSES - WORKSHOP "UM OLHAR SÓCIO-TÉCNICO SOBRE A ENGENHARIA DE SOFTWARE"
+                
+1
+
+
+2010
+
+https://silo.tips/downloadFile/aplicando-grounded-theory-para-compreender-os-fatores-criticos-de-sucesso-em-ini
++++++++++++++++++++++++++++++++++++++++++++++++
+WDP-RT: Uma técnica de leitura para inspeção de usabilidade de aplicações Web.
+GOMES, M. ; SANTOS, D. ; CHAVES, L. ; CASTRO, A. ; VAZ, V. ; TRAVASSOS, G. ; CONTE, T.
+                
+VI EXPERIMENTAL SOFTWARE ENGINEERING LATIN AMERICAN WORKSHOP
+1
+
+124-133
+2009
+
+http://www2.dc.ufscar.br/~eselaw09/proceedingsEselaw2009.pdf#page=132
++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Resumos expandidos publicados em anais de congressos
++++++++++++++++++++++++++++++++++++++++++++++++
+Título
+Autores
+
+Revista/Periódico
+
+
+Volume
+
+
+Número
+
+Página(s)
+Ano
+Editora
+Arquivo/Link
++++++++++++++++++++++++++++++++++++++++++++++++
+Investigating the Interplay of Digital Transformation and Artificial Intelligence in Organizations: Insights from a preliminary qualitative analysis.
+TERADA, A. M. ; HORITA, F. ; VIANA, DAVI .
+18TH CONTECSI 2021 - PROCEEDINGS AND ABSTRACTS
+1
+
+1
+2021
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Modelo de Negócio para Estúdios Independentes em Ecossistemas de Software de Jogos Digitais.
+XAVIER, BRUNO ; VIANA, DAVI ; SANTOS, R. 
+PROCEEDINGS OF SBGAMES 2021
+1
+
+1-4
+2021
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Modelagem de Negócio para Estúdios Independentes nos Ecossistemas de Software de Jogos Digitais.
+XAVIER, B. L. ; VIANA, D. ; SANTOS, R. P.
+ANAIS ESTENDIDOS DO XV SIMPÓSIO BRASILEIRO DE SISTEMAS DE INFORMAÇÃO
+
+
+53-56
+2019
+SBC
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Software Engineering Practices in the development of applications for Smart Cities.
+VIANA, DAVI; DE OLIVEIRA ROSA, THATIANE ; SILVA, FRANCISCO ; DURANS, PABLO ; ARAGÃO, ALEXANDRE ; KON, FABIO ; GOLDMAN, ALFREDO
+PROCEEDINGS OF THE XXXIII BRAZILIAN SYMPOSIUM ON SOFTWARE ENGINEERING
+1
+
+150-154
+2019
+
+https://dl.acm.org/doi/pdf/10.1145/3350768.3351801
++++++++++++++++++++++++++++++++++++++++++++++++
+Um Guia Móvel para Assistir Turistas do Parque Nacional dos Lençóis Maranhenses. 
+SILVA, J. ; TELES, A. S. ; SERRA, M. ; SILVA, F. J. S. E. ; VIANA, D. 
+ANAIS DO VII ESCOLA REGIONAL DE COMPUTAÇÃO DO CEARÁ, MARANHÃO E PIAUÍ
+
+
+127-134
+2019
+SBC
+https://sol.sbc.org.br/index.php/ercemapi/article/download/8854/8755/
++++++++++++++++++++++++++++++++++++++++++++++++
+Investigating Factors That Influence Developers' Experience in Mobile Software Ecosystems. 
+FONTAO, AWDREN ; DIAS-NETO, ARILO ; VIANA, DAVI 
+2017 IEEE/ACM JOINT 5TH INTERNATIONAL WORKSHOP ON SOFTWARE ENGINEERING FOR SYSTEMS-OF-SYSTEMS AND 11TH WORKSHOP ON DISTRIBUTED SOFTWARE DEVELOPMENT, SOFTWARE ECOSYSTEMS AND SYSTEMS-OFSYSTEMS
+
+
+55-58
+2017
+IEEE
+https://www.researchgate.net/profile/Awdren-Fontao/publication/314885924_Investigating_Factors_That_Influence_Developers'_Experience_in_Mobile_Software_Ecosystems/links/5b02e4354585154aeb06fdbf/Investigating-Factors-That-Influence-Developers-Experience-in-Mobile-Software-Ecosystems.pdf
++++++++++++++++++++++++++++++++++++++++++++++++
+Preliminary Findings of Expert and Systematic Reviews on the Software Ecosystems Research. 
+BARBOSA, O. ; SANTOS, R. ; VIANA, D.
+ANAIS DO I WORKSHOP SOBRE ASPECTOS SOCIAIS, HUMANOS E ECONÔMICOS DE SOFTWARE
+1
+
+81-85
+2016
+SBC
+https://sol.sbc.org.br/index.php/washes/article/download/6228/6126/
++++++++++++++++++++++++++++++++++++++++++++++++
+Software Ecosystems in the Development of Web, Social Networks and Multimedia Platforms.
+                
+SANTOS, RODRIGO ; VIANA, DAVI 
+PROCEEDINGS OF THE 22ND BRAZILIAN SYMPOSIUM ON MULTIMEDIA AND THE WEB
+
+
+21-22
+2016
+
+https://dl.acm.org/doi/pdf/10.1145/2976796.2988220
++++++++++++++++++++++++++++++++++++++++++++++++
+Knowledge Management and Organizational Culture in a Software Organization ? a Case Study. 
+RABELO, J. ; OLIVEIRA, E. ; VIANA,     D. ; BRAGA, L. ;     SANTOS, G. ; STEINMACHER, I. ; CONTE, T.
+2015 IEEE/ACM 8TH INTERNATIONAL WORKSHOP ON COOPERATIVE AND HUMAN ASPECTS OF SOFTWARE ENGINEERING
+
+
+89-92
+2015
+IEEE
+https://www.researchgate.net/profile/Jacilane-Rabelo/publication/308732994_Knowledge_Management_and_Organizational_Culture_in_a_Software_Organization_--_A_Case_Study/links/580772e308ae07cbaa5415f7/Knowledge-Management-and-Organizational-Culture-in-a-Software-Organization--A-Case-Study.pdf
++++++++++++++++++++++++++++++++++++++++++++++++
+Oportunizando a Aprendizagem e Gerência do Conhecimento em Ecossistemas de Software.
+                
+VIANA, DAVI; CONTE, TAYANA
+WDES 2015
+
+
+73
+2015
+
+https://pdfslide.tips/education/wdes-2015-paper-oportunizando-a-aprendizagem-e-gerencia-do-conhecimento-em.html
++++++++++++++++++++++++++++++++++++++++++++++++
+Qualidade em Ecossistemas de Software: Desafios e Oportunidades de Pesquisa.
+SANTOS, R. ; VALENCA, G. ; VIANA, D. ; ESTÁCIO, B. ; FONTÃO, A. ; MARCZAK, S. ; WERNER, C. ; ALVES, C. ; CONTE, T. ; PRIKLADNICKI, R. 
+ANAIS DO V CBSOFT, VIII WDES, MACEIÓ
+2
+
+41-44
+2014
+
+https://www.researchgate.net/profile/Awdren-Fontao/publication/280014000_Qualidade_em_Ecossistemas_de_Software_Desafios_e_Oportunidades_de_Pesquisa/links/55a3ce4208ae72349bbcf8c0/Qualidade-em-Ecossistemas-de-Software-Desafios-e-Oportunidades-de-Pesquisa.pdf
++++++++++++++++++++++++++++++++++++++++++++++++
+Facilitando a Aprendizagem Organizacional em Melhorias de Processo de Software. 
+VIANA, D.; DE SOUZA,     C.R.B. ; CONTE, T.
+ANAIS DO XV SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE
+1
+
+391-405
+2016
+SBC
+https://sol.sbc.org.br/index.php/sbqs/article/download/15148/14993/
++++++++++++++++++++++++++++++++++++++++++++++++
+A qualitative study about the life cycle of lessons learned.
+VIANA, DAVI; RABELO, JACILANE ; CONTE, TAYANA ; VIEIRA, ANDREIA ; BARROSO, ELLEN ; DIB, MARIO
+2013 6TH INTERNATIONAL WORKSHOP ON COOPERATIVE AND HUMAN ASPECTS OF SOFTWARE ENGINEERING
+                
+
+
+73-76
+2013
+IEEE
+https://ieeexplore.ieee.org/document/6614734
++++++++++++++++++++++++++++++++++++++++++++++++
+Elicitação de Requisitos a partir de Modelos de Processos de Negócio e Modelos Organizacionais: Uma pesquisa para definição de técnicas baseadas em heurísticas. 
+OLIVEIRA, M. ; VIEIRA, S. ; VIANA, D. ; MARCZAK, S. ; CONTE, T.
+ER@ BR
+1
+
+86-91
+2013
+
+https://d1wqtxts1xzle7.cloudfront.net/53706494/Elicitao_de_Requisitos_a_partir_de_Model20170629-3071-mskyd0-with-cover-page-v2.pdf?Expires=1639232282&Signature=EmXSDNszflFi6n6vvczKDGH~u-j1lG8aMfBcmcOKQBdMbrRd81OozaYu9UxvxTpN267QuKUq2eOMYu24ulS2EvW8jZoWtsEiQ6~TbWmSP~ke~QX4Mk77IOzabhTDYs20VIfvmLYAQOJ18ee1v40YozlUCMlgvI4evB6DzuaX5oCR9nKT46Z3uCg9~LqE0mxbpgVvC8FNQ33BM94y03FQma7NgB9uY8-jA-hkHhprKQeI~jbYJPDXlLbgfm8PiCUBzxaQdzPoQD0Hj1Y9~9Amp8HLopAvVSqonG2y1QNwkcG2c9lFS0lANVtZYyYokXjha4s2Ev6ZMqApC9N-XfhCHA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
++++++++++++++++++++++++++++++++++++++++++++++++
+The influence of human aspects on software process improvement: qualitative research findings and comparison to previous studies.
+VIANA, D.; CONTE, T. ;     VILELA, D. ; DE SOUZA, C.R.B. ; SANTOS, G. ; PRIKLADNICKI, R.
+16TH INTERNATIONAL CONFERENCE ON EVALUATION & ACESSMENT IN SOFTWARE ENGINEERING
+
+
+121-125
+2012
+IET
+https://www.researchgate.net/profile/Gleison-Santos/publication/260723792_The_influence_of_human_aspects_on_software_process_improvement_Qualitative_research_findings_and_comparison_to_previous_studies/links/0c96053b2ddad4acf6000000/The-influence-of-human-aspects-on-software-process-improvement-Qualitative-research-findings-and-comparison-to-previous-studies.pdf
++++++++++++++++++++++++++++++++++++++++++++++++
+Fatores críticos de sucesso em iniciativas de MPS - Uma visão qualitativa.
+SANTOS, D.; CONTE, T.     .
+QUALIDADE E PRODUTIVIDADE EM SOFTWARE PROJETOS CICLO 2010
+
+
+35
+2010
+
+https://d1wqtxts1xzle7.cloudfront.net/30808599/Revista_PBQP_2_Edicao-with-cover-page-v2.pdf?Expires=1639232792&Signature=HOSV55FUzS-AIwUHu0LEM7wizqCBquMwvoOlrzlmdLnEAlMxLHdN7ac~jt4eqx9H8Ik4dwJ7zoeVoT3fjKcm4LBXIJR~Z8JcdmYxZKiUHELwbq0DnmJqE3Yj5DWFQLmzqWt1ikvsdJ6azfk2Vh~xlwlev0L6kf1~8zS84uHqLLW7MuG8ILSMRzsTi1HcQlQD0r5dHHDugBfZrggvRefJEYiGGr40aGLSc2F2TN4FTozQj~Rtg~em9qBC0H6ovbCe2qbbf3qYWL26lpHu2V45UxkP9piKiN4rhC2geTOEt10Kwgi12BhVujjxoZlbTzKKqZvxS30ofI5E629sq3Xx5Q__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=30
++++++++++++++++++++++++++++++++++++++++++++++++
+Aplicando Técnicas de Inspeção de Usabilidade para Avaliar Aplicações Móveis. 
+BONIFACIO, B. ; SANTOS, D. ; ARAUJO, C. ; VIEIRA, S. ; CONTE, T.
+PROCEEDINGS OF THE IX SYMPOSIUM ON HUMAN FACTORS IN COMPUTING SYSTEMS
+
+
+189-192
+2010
+
+https://d1wqtxts1xzle7.cloudfront.net/53706507/Aplicando_tcnicas_de_inspeo_de_usabilida20170629-3066-14sa0ba-with-cover-page-v2.pdf?Expires=1639232901&Signature=Kf1h-wH8okBGAq70Vzq~neJmru2UpTfBhhmKcG2BdNMeTVD2jH6Vz3DiHXpzyUbfPPhwVc5Nb5XaKHMpvhKQORYdFCxSYngXafYzlnmwv1oEj~HpMmI0HTBPAWMSDQhWsxd9KlTvb8Dz22tWVTwy4KAZSPBXQDus56ADYHlY1dtdtVG2179qEvL16EQ-QpgDIq60cpkHjZg5DUWk7RAB0dzASAvQzI2r0K7-jcPTSZZgaYmx0olHOaTxhMGK~2SJclsawIVrXCLJYusnsiudpg0YMpz8terVE95ShZr7tw2nOF4~f~77JhG3ah7PMK1rGDU6GpNNI9ggMiye5QCywg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Resumos publicados em anais de congressos
++++++++++++++++++++++++++++++++++++++++++++++++
+Título
+Autores
+
+Revista/Periódico
+
+
+Volume
+
+
+Número
+
+Página(s)
+Ano
+Editora
+Arquivo/Link
++++++++++++++++++++++++++++++++++++++++++++++++
+Incorporação de Acessibilidade Digital nos Recursos Educacionais e Ambientes Virtuais da UNA-SUS.
+COSTA, Y. ; SILVEIRA, R. ; VIANA,     DAVI ; OLIVEIRA, A.     E. F. ; TEIXEIRA, M. M.
+ANAIS DO 27° ENCONTRO NACIONAL DA REDE UNIVERSIDADE ABERTA DO SUS (UNA-SUS)
+1
+
+1
+2021
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Projeto Patrino: um Aplicativo com Inteligência Artificial Aplicada no Gerenciamento de Bancos de Leite Humano.
+SANTOS, S. ; VIEIRA, E. ; VIANA, D. ; SERRA, A. ; AZEVEDO, L. ; CARVALHO, P.
+ANAIS ESTENDIDOS DO XV SIMPÓSIO BRASILEIRO DE SISTEMAS DE INFORMAÇÃO
+1
+
+140-142
+2019
+SBC
+https://sol.sbc.org.br/index.php/sbsi_estendido/article/download/7458/7340/
++++++++++++++++++++++++++++++++++++++++++++++++
+Ecossistemas de Software na Indústria - Riscos e Oportunidades.
+SANTOS, R. ; VIANA, D. 
+ANAIS DO XV SBQS
+
+
+
+2016
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Tecnologias Facilitadoras de Aprendizagem Organizacional em Programas de Melhoria de Processo de Software. 
+VIANA, DAVI; SOUZA, C. ;     CONTE, T.
+1ST LATIN-AMERICAN SCHOOL ON SOFTWARE ENGINEERING
+1
+
+
+2013
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Diagnóstico Inicial para avaliação MPS.BR nível G em empresa do grupo AmazonSoft. 
+SANTOS, D.; CONTE, T. ;     VIANA, P. ; XAVIER, C. M.
+V FEIRA INTERNACIONAL DA AMAZÔNIA
+
+
+
+2009
+
+
++++++++++++++++++++++++++++++++++++++++++++++++

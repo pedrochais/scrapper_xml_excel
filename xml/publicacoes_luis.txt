@@ -1,0 +1,2003 @@
+<tr style="height: 19px">
+                <th id="847348028R1" style="height: 19px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 19px">2</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s2" colspan="9">Artigos completos publicados em periódicos</td>
+            </tr>
+            <tr style="height: 23px">
+                <th id="847348028R2" style="height: 23px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 23px">3</div>
+                </th>
+                <td class="s3"></td>
+                <td class="s4">Título</td>
+                <td class="s5">Autores</td>
+                <td class="s6 softmerge">
+                    <div class="softmerge-inner" style="width:103px;left:-3px">Revista/Periódico</div>
+                </td>
+                <td class="s6 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Volume</div>
+                </td>
+                <td class="s7 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Número</div>
+                </td>
+                <td class="s4">Página(s)</td>
+                <td class="s4">Ano</td>
+                <td class="s4">Editora</td>
+                <td class="s4">Arquivo/Link</td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R3" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">4</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">ProgramSE: Um Jogo para Aprendizagem de Conceitos de Lógica de Programação. Revista
+                    Brasileira de Informática na Educação (RBIE)</td>
+                <td class="s8">SILVA, RODRIGO RIBEIRO; RIVERO, LUIS; SANTOS, RODRIGO PEREIRA DOS</td>
+                <td class="s8">REVISTA BRASILEIRA DE INFORMÁTICA NA EDUCAÇÃO</td>
+                <td class="s9">29</td>
+                <td class="s9"></td>
+                <td class="s9">301-330</td>
+                <td class="s9">2021</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="http://br-ie.org/pub/index.php/rbie/article/download/v29p301/6776">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R4" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">5</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Desenvolvimento de uma aplicação educativa para o ensino derotinas diárias e quebra de
+                    rotinas a crianças Autistas.</td>
+                <td class="s11">MELO, AÚREA; PEREIRA E LIMA, VICTOR YAN; ORAN FONSECA SOUZA, CARLA; CASTRO, RHAYSSA;
+                    SOUZA TEODORO, GIOVANNA; BARRETO, RAIMUNDO; RIVERO, LUIS</td>
+                <td class="s8">RENOTE</td>
+                <td class="s9">19</td>
+                <td class="s12">1</td>
+                <td class="s9">166-175</td>
+                <td class="s9">2021</td>
+                <td class="s13"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://www.seer.ufrgs.br/renote/article/download/118421/64494">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R5" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">6</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Rota de Ada: Desenvolvimento de um jogo para ensino de atributos de usabilidade
+                    utilizando metodologias de design</td>
+                <td class="s11">DE CARVALHO, FLÁVIA; SAUNDERS, LUÃ; SANTOS, SEBASTIÃO; DE JESUS COSTA, YANDSON;
+                    DEMAISON, ANDRÉ LEONARDO; VIANA, DAVI; RIVERO, LUIS</td>
+                <td class="s8">RENOTE</td>
+                <td class="s9">19</td>
+                <td class="s12">1</td>
+                <td class="s9">278-287</td>
+                <td class="s9">2021</td>
+                <td class="s13"></td>
+                <td class="s14"><a target="_blank"
+                        href="https://www.seer.ufrgs.br/renote/article/download/118486/64529">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R6" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">7</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Desenvolvimento e Aplicação de Jogos Sérios para o Ensino de Cinética Química.</td>
+                <td class="s8">LIMA, THAMYLA MARIA DE SOUSA; MENEZES, RODRIGO DE FRANÇA DE SÁ; BARRADAS FILHO, ALEX
+                    OLIVEIRA; BARROS, ALLAN KARDEC DUAILIBE; VIANA, DAVI; CABREJOS, LUIS JORGE ENRIQUE RIVERO;
+                    BOTTENTUIT JUNIOR, JOÃO BATISTA</td>
+                <td class="s8">RESEARCH</td>
+                <td class="s9">9</td>
+                <td class="s9">7</td>
+                <td class="s9"></td>
+                <td class="s9">2020</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://rsdjournal.org/index.php/rsd/article/download/3760/3352/18980">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R7" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">8</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Identificando Jogos Sérios Para o Ensino de Engenharia de Software no Brasil Através de
+                    Um Mapeamento Sistemático</td>
+                <td class="s11">SANTOS, SEBASTIÃO HENRIQUE NASCIMENTO; COSTA, YANDSON DE JESUS SARAIVA; SANTOS, DAVI
+                    VIANA DOS; BARRADAS FILHO, ALEX OLIVEIRA; BOTTENTUIT JUNIOR, JOÃO BATISTA; CABREJOS, LUIS JORGE
+                    ENRIQUE RIVERO</td>
+                <td class="s8">RESEARCH</td>
+                <td class="s9">9</td>
+                <td class="s12">7</td>
+                <td class="s9"></td>
+                <td class="s9">2020</td>
+                <td class="s13"></td>
+                <td class="s14"><a target="_blank"
+                        href="https://rsdjournal.org/index.php/rsd/article/download/3702/3486">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R8" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">9</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Um Relato de Experiência da Adaptação de um Evento Acadêmico Presencial para o Contexto
+                    Virtual em Tempos de Pandemia</td>
+                <td class="s15">RIVERO, L.; SALLES, C.; BONINI, T. ; COSTA, S.; MEIRELES, M.</td>
+                <td class="s15">REVISTA BRASILEIRA DE INFORMÁTICA NA EDUCAÇÃO</td>
+                <td class="s9">28</td>
+                <td class="s16"></td>
+                <td class="s9">935-955</td>
+                <td class="s17">2020</td>
+                <td class="s18"></td>
+                <td class="s19"><a target="_blank"
+                        href="https://www.br-ie.org/pub/index.php/rbie/article/download/v28p934/6747">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R9" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">10</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Evoluindo uma aplicação para Cidades Inteligentes através de Avaliação de Métricas de
+                    Qualidade e Usabilidade.</td>
+                <td class="s8">ARAGÃO, ALEXANDRE ; MACHADO, LUCAS ; MORENO, NATHYANE ; VIANA, DAVI ; SILVA, FRANCISCO ;
+                    SOUSA, TÉRCIO ; RIVERO, LUIS ; TELES, ARIEL ; DA CONCEIÇÃO, ARLINDO F. ; COSTA, INALDO</td>
+                <td class="s8">ISYS - BRAZILIAN JOURNAL OF INFORMATION SYSTEMS</td>
+                <td class="s9">13</td>
+                <td class="s9">3</td>
+                <td class="s9">55-81</td>
+                <td class="s9">2020</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://sol.sbc.org.br/journals/index.php/isys/article/download/795/741/1106">Download</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R10" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">11</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Aplicando Técnicas de Elicitação de Requisitos para a Concepção de um Sistema de
+                    Informação: Um Relato de Experiência.</td>
+                <td class="s15">COSTA, YANDSON DE JESUS SARAIVA ; ESTRELA, IGOR RAFAEL BARBOSA ; GOMES, MICAEL MACHADO ;
+                    DOS SANTOS, DAVI VIANA ; CABREJOS, LUIS JORGE ENRIQUE RIVERO</td>
+                <td class="s15">INTERFACES CIENTÍFICAS - EXATAS E TECNOLÓGICAS</td>
+                <td class="s9">4</td>
+                <td class="s16">1</td>
+                <td class="s9">101-115</td>
+                <td class="s9">2020</td>
+                <td class="s13"></td>
+                <td class="s14"><a target="_blank"
+                        href="https://periodicos.set.edu.br/exatas/article/download/8809/4352/27690">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R11" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">12</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Are scale-based techniques enough for learners to convey their UX when using a Learning
+                    Management System?</td>
+                <td class="s8">NAKAMURA, WALTER TAKASHI; MARQUES, LEONARDO CARNEIRO; RIVERO, LUIS; DE OLIVEIRA, ELAINE
+                    H. T.; CONTE, TAYANA</td>
+                <td class="s8">REVISTA BRASILEIRA DE INFORMÁTICA NA EDUCAÇÃO</td>
+                <td class="s9">27</td>
+                <td class="s9">1</td>
+                <td class="s9">104</td>
+                <td class="s9">2019</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="http://www.br-ie.org/pub/index.php/rbie/article/download/7788/6035">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R12" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">13</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Análise das Atividades Divulgadas pelos Grupos PET de Computação para Identificar
+                    Oportunidades de Parcerias e Inovação no Uso de Metodologias e Tecnologias na Educação em Computação
+                </td>
+                <td class="s15">COSTA, E.; BRAZ JUNIOR, G.; BARRADAS FILHO, A. O.; SANTOS, D. V.; BOTTENTUIT JUNIOR, J.
+                    B.; RIVERO, L.</td>
+                <td class="s15"></td>
+                <td class="s9">30</td>
+                <td class="s16"></td>
+                <td class="s9"></td>
+                <td class="s17">2019</td>
+                <td class="s18"></td>
+                <td class="s19"><a target="_blank"
+                        href="https://tecedu.pro.br/wp-content/uploads/2019/12/Art13-Ano-11-vol30-Novembro-2019.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R13" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">14</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Evaluating the Feasibility of MAX: A Method Using Cards and a Board for Assessing the
+                    Post-Use UX.</td>
+                <td class="s8">CAVALCANTE, EMANUELLE; RIVERO, LUIS; CONTE, TAYANA </td>
+                <td class="s8">INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING</td>
+                <td class="s9">25</td>
+                <td class="s9">09n10</td>
+                <td class="s9">1759-1764</td>
+                <td class="s9">2015</td>
+                <td class="s8">World Scientific</td>
+                <td class="s10"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Emanuelle-Cavalcante/publication/298757853_Evaluating_the_Feasibility_of_MAX_A_Method_Using_Cards_and_a_Board_for_Assessing_the_Post-Use_UX/links/58d93e92aca272d801d4fb18/Evaluating-the-Feasibility-of-MAX-A-Method-Using-Cards-and-a-Board-for-Assessing-the-Post-Use-UX.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R14" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">15</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Characterizing Usability Inspection Methods through the Analysis of a Systematic Mapping
+                    Study Extension.</td>
+                <td class="s8">RIVERO, L.; BARRETO, R.; CONTE, T. U</td>
+                <td class="s8">CLEI ELETRONIC JOURNAL</td>
+                <td class="s20">16</td>
+                <td class="s21">1</td>
+                <td class="s9">12</td>
+                <td class="s9">2013</td>
+                <td class="s8">Centro Latinoamericano de Estudios en Informática</td>
+                <td class="s22"><a target="_blank"
+                        href="http://www.scielo.edu.uy/pdf/cleiej/v16n1/v16n1a12.pdf">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R15" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">16</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Using an empirical study to evaluate the feasibility of a new usability inspection
+                    technique for paper based prototypes of web applications.</td>
+                <td class="s8">RIVERO, LUIS; CONTE, TAYANA</td>
+                <td class="s8">JOURNAL OF SOFTWARE ENGINEERING RESEARCH AND DEVELOPMENT</td>
+                <td class="s20">1</td>
+                <td class="s21">1</td>
+                <td class="s9">1-25</td>
+                <td class="s9">2013</td>
+                <td class="s23">SpringerOpen</td>
+                <td class="s22"><a target="_blank"
+                        href="https://jserd.springeropen.com/track/pdf/10.1186/2195-1721-1-2.pdf">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R16" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">17</div>
+                </th>
+                <td></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+            </tr>
+            <tr style="height: 19px">
+                <th id="847348028R17" style="height: 19px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 19px">18</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s2" colspan="9">Capítulos de livros publicados</td>
+            </tr>
+            <tr style="height: 19px">
+                <th id="847348028R18" style="height: 19px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 19px">19</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s4">Título</td>
+                <td class="s5">Autores</td>
+                <td class="s6 softmerge">
+                    <div class="softmerge-inner" style="width:103px;left:-3px">Revista/Periódico</div>
+                </td>
+                <td class="s6 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Volume</div>
+                </td>
+                <td class="s7 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Número</div>
+                </td>
+                <td class="s4">Página(s)</td>
+                <td class="s4">Ano</td>
+                <td class="s4">Editora</td>
+                <td class="s4">Arquivo/Link</td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R19" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">20</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Planejamento e Execução de Estudos Secundários em Informática na Educação: Um Guia
+                    Prático Baseado em Experiências.</td>
+                <td class="s8">RIVERO, L.; SANTOS, D. V. ; SANTOS, R.</td>
+                <td class="s8">JORNADA DE ATUALIZAÇÃO EM INFORMÁTICA NA EDUCAÇÃO</td>
+                <td class="s9">7</td>
+                <td class="s9">1</td>
+                <td class="s9">21-52</td>
+                <td class="s9">2018</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="http://www.br-ie.org/pub/index.php/pie/article/download/7858/6029">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R20" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">21</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Modelo de Aceitação de Tecnologia TAM.</td>
+                <td class="s8">CONTE, T. U. ; VALENTIM, N. ; RIVERO, L. ; LOPES, A. ; OLIVEIRA, E. C. ; STEINMACHER, I.
+                </td>
+                <td class="s8"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">159</td>
+                <td class="s9">2018</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R21" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">22</div>
+                </th>
+                <td></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+            </tr>
+            <tr style="height: 19px">
+                <th id="847348028R22" style="height: 19px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 19px">23</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s2" colspan="9">Trabalhos completos publicados em anais de congressos</td>
+            </tr>
+            <tr style="height: 19px">
+                <th id="847348028R23" style="height: 19px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 19px">24</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s4">Título</td>
+                <td class="s5">Autores</td>
+                <td class="s6 softmerge">
+                    <div class="softmerge-inner" style="width:103px;left:-3px">Revista/Periódico</div>
+                </td>
+                <td class="s6 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Volume</div>
+                </td>
+                <td class="s7 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Número</div>
+                </td>
+                <td class="s4">Página(s)</td>
+                <td class="s4">Ano</td>
+                <td class="s4">Editora</td>
+                <td class="s4">Arquivo/Link</td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R24" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">25</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Implementando o Gitflow para Gerencia de Configuração em um Projeto de Desenvolvimento de
+                    Software Ágil: Um Relato de Experiência.</td>
+                <td class="s8"><br>RIVERO, L.; SILVA, I. ; CUTRIM, P. ; PAIVA, A. ; OLIVEIRA, M. ; ALVES, E. W. B. A. L.
+                    ; BRAZ JUNIOR, G. ; DIAS, D. </td>
+                <td class="s8">ANAIS DO COMPUTER ON THE BEACH</td>
+                <td class="s9">12</td>
+                <td class="s9"></td>
+                <td class="s9">178-185</td>
+                <td class="s9">2021</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Geraldo-Junior-2/publication/351339050_Implementando_o_Gitflow_para_Gerencia_de_Configuracao_em_um_Projeto_de_Desenvolvimento_de_Software_Agil_Um_Relato_de_Experiencia/links/61799d260be8ec17a939c3c4/Implementando-o-Gitflow-para-Gerencia-de-Configuracao-em-um-Projeto-de-Desenvolvimento-de-Software-Agil-Um-Relato-de-Experiencia.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R25" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">26</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Quando os Discentes se Expressam: Um Relato de Experiência da Criação de um Podcast para
+                    Aumentar o Engajamento e Troca de Conhecimento em Tempos de Pandemia.</td>
+                <td class="s8">SILVA, CARLOS; NUNES, KENNEDY; PINTO, NATHASHA; COSTA, MAIKON; ARAÚJO, ALANA; ROCHA,
+                    SIMARA; BRAZ JUNIOR, GERALDO; RIVERO, LUIS </td>
+                <td class="s8">ANAIS DO XXIX WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">121-130</td>
+                <td class="s9">2021</td>
+                <td class="s8">SBC</td>
+                <td class="s10"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/wei/article/download/15903/15744/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R26" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">27</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">O Impacto das Atividades do Grupo PET no Aprimoramento de Soft Skills Requeridos pelo
+                    Mercado de Computação do Maranhão: Uma Análise da Visão dos Discentes.</td>
+                <td class="s8">PASSOS, ARTHUR ; BARRETO, ANDRÉ ; NASCIMENTO, BRENNO ; SILVA, FELIPE ; COSTA, GABRIEL ;
+                    COSTA, YANDSON ; VIANA, DAVI ; RIVERO, LUIS</td>
+                <td class="s8">ANAIS DO XXIX WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">388-397</td>
+                <td class="s9">2021</td>
+                <td class="s9">SBC</td>
+                <td class="s10"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/wei/article/download/15930/15771/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R27" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">28</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Lessons Learned from Applying Requirements and Design Techniques in the Development of a
+                    Machine Learning System for Predicting Lawsuits Against Power Companies.</td>
+                <td class="s24">RIVERO, L.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; CASTRO, C.
+                        E. P. S. ; BOARO, J. ; SANTOS, P. ; REGO, V. ; BRAZ JUNIOR, G. ; PAIVA, A. ; ALVES, E. ;
+                        OLIVEIRA, M. ; MORAES, R. ; MENDES, M</span></td>
+                <td class="s8">INTERNATIONAL CONFERENCE ON HUMAN-COMPUTER INTERACTION</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">227-243</td>
+                <td class="s9">2021</td>
+                <td class="s9">Springer</td>
+                <td class="s10"><a target="_blank"
+                        href="https://link.springer.com/chapter/10.1007/978-3-030-78321-1_18">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R28" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">29</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">An Autistic Personas? Characteristics Source to Develop Empathy in Software Development
+                    Teams.</td>
+                <td class="s8">MELO, A. ; TOLEDO, A. C. O. F. E. ; SANTOS, J. ; RIVERO, L. ; BARRETO, R.</td>
+                <td class="s8">INTERNATIONAL CONFERENCE ON HUMAN-COMPUTER INTERACTION</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">223-236</td>
+                <td class="s9">2021</td>
+                <td class="s9">Springer</td>
+                <td class="s10"><a target="_blank"
+                        href="https://link.springer.com/chapter/10.1007/978-3-030-90328-2_14">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R29" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">30</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Applying Exploratory Testing and Ad-Hoc Usability Inspection to Improve the Ease of Use
+                    of a Mobile Power Consumption Registration App: An Experience Report. </td>
+                <td class="s8">OLIVEIRA, J. ; PAIVA, A. ; FERREIRA, V. ; ROCHA, S. ; SILVA, I. ; RIVERO, L. ; ALMEIDA,
+                    J. ; BRAZ JUNIOR, G. ; PAIVA, A. ; SILVA, A. ; NOGUEIRA, H. ; MONTEIRO, E. ; FERNANDES, E. </td>
+                <td class="s8">INTERNATIONAL CONFERENCE ON HUMAN-COMPUTER INTERACTION</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">326-341</td>
+                <td class="s9">2021</td>
+                <td class="s9">Springer</td>
+                <td class="s10"><a target="_blank"
+                        href="https://link.springer.com/chapter/10.1007/978-3-030-90238-4_23">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R30" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">31</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">An Experience Report On The Adaptation Of A Face-To-Face Discipline To The Virtual
+                    Context In Times Of Covid-19 Pandemic.</td>
+                <td class="s8">FERNANDES, P. ; VENANCIO, G. A. ; FROTA, V. B. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">RIVERO,
+                        L.</span></td>
+                <td class="s8">PROCEEDINGS OF THE 14TH ANNUAL INTERNATIONAL CONFERENCE OF EDUCATION</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">2021</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R31" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">32</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Requirements Elicitation in the Context of Software for Low-Functioning Autistic People:
+                    An Initial Proposal of Specific Supporting Artifacts.</td>
+                <td class="s8">MELO, A. ; TOLEDO, A. C. O. F. E. ; SANTOS, J. ; RIVERO, L. ; BARRETO, R. </td>
+                <td class="s8">BRAZILIAN SYMPOSIUM ON SOFTWARE ENGINEERING</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">291-296</td>
+                <td class="s9">2021</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3474624.3477065">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R32" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">33</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Developing an Inspection Checklist for the Adequacy Assessment of Software Systems to
+                    Quality Attributes of the Brazilian General Data Protection Law: An Initial Proposal.</td>
+                <td class="s8">MENDES, J. ; SANTOS, D. V. ; RIVERO, L.</td>
+                <td class="s8">BRAZILIAN SYMPOSIUM ON SOFTWARE ENGINEERING</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">263-268</td>
+                <td class="s9">2021</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://dl.acm.org/doi/fullHtml/10.1145/3474624.3477069">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R33" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">34</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Development and Evaluation of an Inspection Checklist Tool for Mobile Educational Games.
+                </td>
+                <td class="s8">FRAZAO, K. ; ARAGAO, A. ; PAIVA, A. ; SANTOS, D. V. ; RIVERO, L. </td>
+                <td class="s8">BRAZILIAN SYMPOSIUM ON SOFTWARE ENGINEERING</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">227-232</td>
+                <td class="s9">2021</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank" href="https://dl.acm.org/doi/10.1145/3474624.3476013">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R34" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">35</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Análise de Tecnologias de Informação e Comunicação para Apoio à Tradução de Textos para a
+                    Língua Brasileira de Sinais no Ambiente Educacional. </td>
+                <td class="s8">ARAUJO, R. ; ROCHA, S. ; MELO, A. ; TOLEDO, A. C. O. F. E. ; SANTOS, D. V. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">RIVERO,
+                        L.</span></td>
+                <td class="s8">ANAIS DO XXVII WORKSHOP DE INFORMÁTICA NA ESCOLA</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">224-235</td>
+                <td class="s9">2021</td>
+                <td class="s9">SBC</td>
+                <td class="s10"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/wie/article/download/17850/17684/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R35" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">36</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Análise de Aplicativos para Pessoas Analfabetas: Quais são as suas Características?</td>
+                <td class="s8">RODRIGUES, A. ; VENANCIO, G. A. ; FERNANDES, P. ; FROTA, V. B. ; RIVERO, L. </td>
+                <td class="s8">ANAIS DO XXVII WORKSHOP DE INFORMÁTICA NA ESCOLA</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">267-274</td>
+                <td class="s9">2021</td>
+                <td class="s9">SBC</td>
+                <td class="s10"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/wie/article/download/17854/17688/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R36" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">37</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8"> Análise Comparativa de Sistemas de Leitura de Tela no Apoio ao Ensino de Pessoas com
+                    Deficiência Visual.</td>
+                <td class="s8">SILVA, M. ; BATISTA, B. ; AMARAL, V. ; VENANCIO, G. A. ; FERNANDES, P. ; FROTA, V. B. ;
+                    <span style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">RIVERO,
+                        L.</span></td>
+                <td class="s8">ANAIS DO XXVII WORKSHOP DE INFORMÁTICA NA ESCOLA</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">236-244</td>
+                <td class="s9">2021</td>
+                <td class="s9">SBC</td>
+                <td class="s10"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/wie/article/download/17851/17685/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R37" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">38</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Salas de Reuniões Virtuais para Apoio ao Ensino Remoto em Tempos de Pandemia: Uma Análise
+                    Comparativa.</td>
+                <td class="s8">SILVA, F. ; LIMA, E. ; VIEIRA, K. ; VENANCIO, G. A. ; FERNANDES, P. ; FROTA, V. B. ;
+                    <span style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">RIVERO,
+                        L.</span></td>
+                <td class="s8">ANAIS DO XXVII WORKSHOP DE INFORMÁTICA NA ESCOLA</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">245-254</td>
+                <td class="s9">2021</td>
+                <td class="s9">SBC</td>
+                <td class="s10"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/wie/article/download/17852/17686/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R38" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">39</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Tecnologias Assistivas para Alfabetização de Crianças com TEA: Uma Análise de Aplicativos
+                    da Plataforma Google Play.</td>
+                <td class="s8">SILVA, D. ; FARIAS, L. ; PIMENTEL, L. ; SILVA, S. ; VENANCIO, G. A. ; FERNANDES, P. ;
+                    FROTA, V. B. ; RIVERO, L. .</td>
+                <td class="s8">ANAIS DO XXVII WORKSHOP DE INFORMÁTICA NA ESCOLA</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">255-266</td>
+                <td class="s9">2021</td>
+                <td class="s9">SBC</td>
+                <td class="s10"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/wie/article/download/17853/17687/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R39" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">40</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Apoiando Advogados na Tratativa de Processos Judiciais através da Construção de um
+                    ChatBot Inteligente de Recuperação de Informação.</td>
+                <td class="s8">REGO, V. ; LEITE, F. ; ARAGAO, A. ; ALMEIDA, J. ; RIVERO, L. ; ALVES, E. ; OLIVEIRA, M. ;
+                    MENDES, M.</td>
+                <td class="s8">ANAIS DO SIMPÓSIO BRASILEIRO DE AUTOMAÇÃO INTELIGENTE</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">2021</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R40" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">41</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Developing a Set of Design Patterns Specific for the Design of User Interfaces for
+                    Autistic Users.</td>
+                <td class="s8">GOMES, DAYANNE ; PINTO, N. ; MELO, A. ; MAIA, I. M. ; PAIVA, A. ; BARRETO, R. ; SANTOS,
+                    D. V. ; RIVERO, L.</td>
+                <td class="s8">PROCEEDINGS OF THE XX BRAZILIAN SYMPOSIUM ON HUMAN FACTORS IN COMPUTING SYSTEMS</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">1-7</td>
+                <td class="s9">2021</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3472301.3484347">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R41" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">42</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Quando a Aluna se Torna a Mestre: Um Relato da Experiência de Alunas de Graduação
+                    Aplicando Dinâmicas de Ensino de Computação para Alunas de Ensino Médio.</td>
+                <td class="s8">PINTO, N. ; ARAUJO, A. ; MENDES, E. ; ESTEVE, G. ; SILVA, K. ; NETO, R. ; SALLES, K. ;
+                    RIVERO, L.</td>
+                <td class="s8">ANAIS DO XXVIII WORKSHOP DE INFORMÁTICA NA ESCOLA</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">36-40</td>
+                <td class="s9">2020</td>
+                <td class="s9">SBC</td>
+                <td class="s10"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/wei/article/download/11125/10996/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R42" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">43</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Adaptando o Design Thinking para a Definição e Desenvolvimento de um Jogo Educacional Não
+                    Digital no Ensino de Gerenciamento de Riscos.</td>
+                <td class="s8">SANTOS, SEBASTIÃO ; COSTA, YANDSON ; CARVALHO, FLÁVIA ; VIANA, DAVI ; RIVERO, LUIS .</td>
+                <td class="s8">ANAIS DO XXVIII WORKSHOP DE INFORMÁTICA NA ESCOLA</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">46-50</td>
+                <td class="s9">2020</td>
+                <td class="s9">SBC</td>
+                <td class="s10"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/wei/article/download/11127/10998/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R43" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">44</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">De Veteranos para os Novatos: Avaliação das Atividades de Recepção aos Calouros
+                    Organizado pelo Grupo PETComp.</td>
+                <td class="s8">PINTO, DANIEL ; CHAGAS, EDUARDA ; COSTA, GABRIEL ; NUNES, KENNEDY ; ANCHIETA, RICARDO ;
+                    ROCHA, SIMARA ; PAIVA, ANSELMO ; RIVERO, LUIS . </td>
+                <td class="s8">ANAIS DO XXVIII WORKSHOP DE INFORMÁTICA NA ESCOLA</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">61-65</td>
+                <td class="s9">2020</td>
+                <td class="s9">SBC</td>
+                <td class="s10"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/wei/article/download/11130/11001/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R44" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">45</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Avaliando um Jogo Educacional para o Ensino de Inteligência Artificial - Qual Metodologia
+                    para Avaliação Escolher?</td>
+                <td class="s8">LIMA, THAMYLA ; BARRADAS FILHO, ALEX ; BARROS, ALLAN K. ; VIANA, DAVI ; BOTTENTUIT
+                    JUNIOR, JOÃO B. ; RIVERO, LUIS .</td>
+                <td class="s8">ANAIS DO XXVIII WORKSHOP DE INFORMÁTICA NA ESCOLA</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">66-70</td>
+                <td class="s9">2020</td>
+                <td class="s9">SBC</td>
+                <td class="s10"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/wei/article/download/11131/11002/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R45" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">46</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Lições Aprendidas de Uso de Baixa Tecnologia em uma Disciplina Engenharia de Software
+                    Aplicando Diversas Metodologias Ativas: Um Relato de Experiência. </td>
+                <td class="s8">COSTA, YANDSON ; SANTOS, SEBASTIÃO ; PINTO, NATHASHA ; VIANA, DAVI ; RIVERO, LUIS .</td>
+                <td class="s8">ANAIS DO XXVI WORKSHOP DE INFORMÁTICA NA ESCOLA</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">189-198</td>
+                <td class="s9">2020</td>
+                <td class="s9">SBC</td>
+                <td class="s10"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/wie/article/download/12611/12478/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R46" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">47</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Transfer Learning Method Evaluation for Automatic Pediatric Chest X-Ray Image
+                    Segmentation.</td>
+                <td class="s8">BRAS, GABRIEL ; FERNANDES, VANDECIA ; DE PAIVA, ANSELMO CARDOSO ; JUNIOR, GERALDO BRAZ ;
+                    RIVERO, LUIS . </td>
+                <td class="s8">2020 INTERNATIONAL CONFERENCE ON SYSTEMS, SIGNALS AND IMAGEM PROCESSING (IWSSIP)</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">128-133</td>
+                <td class="s9">2020</td>
+                <td class="s9">IEEE</td>
+                <td class="s10"><a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/9145401">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R47" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">48</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Analyzing App Store Comments and Quality Attributes for Defining an Inspection Checklist
+                    for Mobile Educational Games.</td>
+                <td class="s8">FRAZÃO, KASTNEY ; COSTA, JESSICA ; VIANA, DAVI ; RIVERO, LUIS .</td>
+                <td class="s8">PROCEEDINGS OF THE 34TH BRAZILIAN SYPOSIUM ON SOFTWARE ENGINEERING</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">854-859</td>
+                <td class="s9">2020</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3422392.3422477">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R48" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">49</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Identifying Improvement Opportunities in Software Engineering Education at the Maranhão
+                    State.</td>
+                <td class="s8">COSTA, YANDSON ; GOMES, DAYANNE ; SANTOS, SEBASTIÃO ; PINTO, NATHASHA ; VIANA, DAVI ;
+                    BRAZ, GERALDO ; RIVERO, LUIS . </td>
+                <td class="s8">PROCEEDINGS OF THE 34TH BRAZILIAN SYPOSIUM ON SOFTWARE ENGINEERING</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">860-869</td>
+                <td class="s9">2020</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3422392.3422495">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R49" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">50</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Deployment of a Machine Learning System for Predicting Lawsuits Against Power Companies:
+                    Lessons Learned from an Agile Testing Experience for Improving Software Quality.</td>
+                <td class="s24">RIVERO, L.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; ALMEIDA, J.
+                        D. S. ; SILVA, G. L. F. ; BORRALHO, A. ; BRAZ JUNIOR, G. ; PAIVA, A. ; ALVES, E. W. B. A. L. ;
+                        OLIVEIRA, M.</span></td>
+                <td class="s8">19TH BRAZILIAN SYMPOSIUM ON SOFTWARE QUALITY</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">1-10</td>
+                <td class="s9">2020</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3439961.3439991">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R50" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">51</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Estimulando Meninas do Maranhão para as Carreiras de STEM.</td>
+                <td class="s8">SALLES, K. ; SALLES, W. F. L. ; RIBEIRO, P. R. A. ; SOUSA, J. K. C. ; SANTOS, M. F. ;
+                    SALLES, C. ; RIVERO, L. ; SOUZA, V. M.</td>
+                <td class="s8">ANAIS DO XLVIII CONGRESSO BRASILEIRO DE EDUCAÇÃO EM ENGENHARIA (COBENGE)</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">2020</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://www.researchgate.net/publication/348890837_ESTIMULANDO_MENINAS_DO_MARANHAO_PARA_AS_CARREIRAS_DE_STEM">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R51" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">52</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">EmpathyAut.</td>
+                <td class="s8">MELO, ÁUREA HILÉIA DA SILVA ; RIVERO, LUIS ; SANTOS, JONATHAS SILVA DOS ; BARRETO,
+                    RAIMUNDO DA SILVA .</td>
+                <td class="s8">PROCEEDINGS OF THE 19TH BRAZILIAN SYMPOSIUM ON HUMAN FACTORS IN COMPUTING SYSTEMS</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">1-6</td>
+                <td class="s9">2020</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3424953.3426650">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R52" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">53</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">PersonAut.</td>
+                <td class="s8">MELO, ÁUREA HILÉIA DA SILVA ; RIVERO, LUIS ; SANTOS, JONATHAS SILVA DOS ; BARRETO,
+                    RAIMUNDO DA SILVA .</td>
+                <td class="s8">PROCEEDINGS OF THE 19TH BRAZILIAN SYMPOSIUM ON HUMAN FACTORS IN COMPUTING SYSTEMS</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">1-6</td>
+                <td class="s9">2020</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3424953.3426651">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R53" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">54</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8"> Using Machine Learning Technique for Effort Estimation in Software Development. </td>
+                <td class="s8">AMARAL, W. ; BRAZ JUNIOR, G. ; RIVERO, L. ; SANTOS, D. V. </td>
+                <td class="s8">PROCEEDINGS OF THE XVIII BRAZILIAN SYMPOSIUM ON SOFTWARE QUALITY</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">240-245</td>
+                <td class="s9">2019</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3364641.3364670">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R54" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">55</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Risking: A Game for Teaching Risk Management in Software Projects.</td>
+                <td class="s8">SANTOS, S. ; CARVALHO, F. ; COSTA, Y. ; SANTOS, D. V. ; RIVERO, L.</td>
+                <td class="s8">PROCEEDINGS OF THE XVIII BRAZILIAN SYMPOSIUM ON SOFTWARE QUALITY</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">188-197</td>
+                <td class="s9">2019</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3364641.3364662">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R55" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">56</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Is there time for Software Testing in the Indie Games Development?</td>
+                <td class="s8">OLIVEIRA NETO, J. N. ; SANTOS, D. V. ; SA, E. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">RIVERO,
+                        L.</span><span style="font-size:10pt;font-family:Calibri,Arial;color:#000000;"> ; LOPES, R. F. ;
+                        SILVA, F.</span></td>
+                <td class="s8">PROCEEDINGS OF THE XXXIII BRAZILIAN SYMPOSIUM ON SOFTWARE ENGINEERING</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">37-46</td>
+                <td class="s9">2019</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3350768.3350787">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R56" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">57</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Identificação das Expectativas e Dificuldades de Alunos de Graduação no Ensino de
+                    Engenharia de Software.</td>
+                <td class="s8">COSTA, J. ; COSTA, Y. ; FRAZAO, K. ; SANTOS, R. P. ; SANTOS, D. V. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">RIVERO,
+                        L.</span></td>
+                <td class="s8">ANAIS DO XXVII WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">334-347</td>
+                <td class="s9">2019</td>
+                <td class="s9">SBC</td>
+                <td class="s10"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/wei/article/download/6640/6536/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R57" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">58</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Educação Tutorial em Computação: Uma Análise Retrospectiva das Atividades Realizadas para
+                    a Formação Pessoal e Profissional de Cientistas da Computação.</td>
+                <td class="s8">LEITE, F. ; CARDOSO, G. ; COSTA, Y. ; ESTRELA, I. R. ; PINTO, A. ; PEREIRA, E. ; BRAZ
+                    JUNIOR, G. ; RIVERO, L.</td>
+                <td class="s8">ANAIS DO XXVII WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">101-110</td>
+                <td class="s9">2019</td>
+                <td class="s9">SBC</td>
+                <td class="s10"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/wei/article/download/6621/6517/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R58" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">59</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Utilizando Métricas de Qualidade na Avaliação de uma Aplicação para Cidades Inteligentes.
+                </td>
+                <td class="s8">ARAGAO, A. ; MORENO, N. ; SANTOS, D. V. ; SILVA, F. ; SOUSA, T. ; RIVERO, L. ; TELES, A.
+                    ; CONCEICAO, A. ; COSTA, I.</td>
+                <td class="s8">ANAIS DO IV WORKSHOP SOBRE ASPECTOS SOCIAIS, HUMANOS E ECONÔMICOS DE SOFTWARE</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">51-60</td>
+                <td class="s9">2019</td>
+                <td class="s9">SBC</td>
+                <td class="s10"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/washes/article/download/6409/6305/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R59" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">60</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Identificando as Atividades dos Grupos do Programa de Educação Tutorial na Área de
+                    Computação no Apoio à Inclusão e Alfabetização Digital.</td>
+                <td class="s8">COSTA, E. ; PINTO, A. ; RODRIGUES JUNIOR, J. R. D. ; ARAUJO, A. ; PEREIRA, E. ; BRAZ
+                    JUNIOR, G. ; SANTOS, R. P. ; RIVERO, L.</td>
+                <td class="s8">ANAIS DO WORKSHOP DE INFORMÁTICA NA ESCOLA</td>
+                <td class="s9">25</td>
+                <td class="s9">1</td>
+                <td class="s9">934-943</td>
+                <td class="s9">2019</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="http://www.br-ie.org/pub/index.php/wie/article/download/8594/6155">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R60" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">61</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Do Scale Type Techniques Identify Problems that Affect User eXperience? User Experience
+                    Evaluation of a Mobile Application.</td>
+                <td class="s8">MARQUES, L. ; NAKAMURA, W. ; VALENTIM, N. ; RIVERO, L. ; CONTE, T. U.</td>
+                <td class="s8">PROCEEDINGS OF THE 30TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING AND KNOWLEDGE
+                    ENGINEERING</td>
+                <td class="s9">1</td>
+                <td class="s9"></td>
+                <td class="s9">161-165</td>
+                <td class="s9">2018</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Leonardo-Marques-2/publication/328688812_Do_Scale_Type_Techniques_Identify_Problems_that_Affect_User_eXperience_User_Experience_Evaluation_of_a_Mobile_Application_S/links/5c1402dfa6fdcc494ff51061/Do-Scale-Type-Techniques-Identify-Problems-that-Affect-User-eXperience-User-Experience-Evaluation-of-a-Mobile-Application-S.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R61" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">62</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Desenvolvimento de um Aplicativo de Combate à Depressão através da Análise de Informações
+                    de Grupos em uma Rede Social.</td>
+                <td class="s8">OLIVEIRA, M. L. S. ; OLIVEIRA NETO, J. N. ; SANTOS, R. P. ; RIVERO, LUIS ; SANTOS, D. V.
+                </td>
+                <td class="s8">ANAIS DO XIV SIMPÓSIO BRASILEIRO DE SISTEMAS DE INFORMAÇÃO</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">55-64</td>
+                <td class="s9">2018</td>
+                <td class="s9">SBC</td>
+                <td class="s10"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3229345.3229354">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R62" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">63</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Uma Ferramenta de Suporte ao Ensino de Modelagem de Sistemas Distribuídos Críticos: Uma
+                    Experiência Prática. </td>
+                <td class="s8">MONTEIRO, E. J. ; RIVERO, L. ; BARRETO, R.</td>
+                <td class="s8">SIMPÓSIO BRASILEIRO DE INFORMÁTICA NA EDUCAÇÃO (SBIE)</td>
+                <td class="s9">29</td>
+                <td class="s9">1</td>
+                <td class="s9">218</td>
+                <td class="s9">2018</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="http://www.br-ie.org/pub/index.php/sbie/article/download/7976/5672">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R63" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">64</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Quando os Desenvolvedores Desabafam: Análise de Sentimentos sobre os Comentários em
+                    Ecossistemas de Software de Duas Game Engines. </td>
+                <td class="s8">FERREIRA, T. ; FERNANDES, J. ; RIVERO, L. ; SANTOS, D. V. ; SANTOS, R.</td>
+                <td class="s8">ANAIS DO XVII SIMPÓSIO BRASILEIRO DE JOGOS E ENTRETENIMENTO DIGITAL - SBGAMES</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">1559-1565</td>
+                <td class="s9">2018</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Thais-Ferreira-3/publication/341914307_Quando_os_Desenvolvedores_Desabafam_Analise_de_Sentimentos_sobre_os_Comentarios_em_Ecossistemas_de_Software_de_Duas_Game_Engines/links/5ed94df0458515294532e5c2/Quando-os-Desenvolvedores-Desabafam-Analise-de-Sentimentos-sobre-os-Comentarios-em-Ecossistemas-de-Software-de-Duas-Game-Engines.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R64" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">65</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">A Systematic Mapping Study on Research Contributions on UX Evaluation Technologies.</td>
+                <td class="s24">RIVERO, L.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; CONTE, T.
+                        U.</span></td>
+                <td class="s8">PROCEEDINGS OF THE XVI BRAZILIAN SYMPOSIUM ON HUMAN FACTORS IN COMPUTING SYSTEMS</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">1-10</td>
+                <td class="s9">2017</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3160504.3160512">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R65" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">66</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8"> Searching for Preferences of Autistic Children to Support the Design of User Interfaces.
+                </td>
+                <td class="s8">MELO, A. ; SANTOS, J. ; RIVERO, LUIS ; BARRETO, R.</td>
+                <td class="s8">PROCEEDINGS OF THE XVI BRAZILIAN SYMPOSIUM ON HUMAN FACTORS IN COMPUTING SYSTEMS</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">1-10</td>
+                <td class="s9">2017</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3160504.3160536">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R66" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">67</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Are Generic UX Evaluation Techniques Enough? A study on the UX Evaluation of the Edmodo
+                    Learning Management System.</td>
+                <td class="s8">NAKAMURA, W. ; MARQUES, L. ; RIVERO, L. ; OLIVEIRA, H. ; CONTE, T. U.</td>
+                <td class="s8">SIMPÓSIO BRASILEIRO DE INFORMÁTICA NA EDUCAÇÃO (SBIE)</td>
+                <td class="s9">28</td>
+                <td class="s9">1</td>
+                <td class="s9">1007</td>
+                <td class="s9">2017</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="http://br-ie.org/pub/index.php/sbie/article/download/7629/5425">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R67" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">68</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Avaliando a Viabilidade do BlackBox em Sala de Aula: Um Jogo Sério para Ensino de Teste
+                    Funcional de Software</td>
+                <td class="s8">RIBEIRO, N. ; VASCONCELOS, R. ; SANTOS, D. V. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">RIVERO,
+                        L.</span></td>
+                <td class="s8">SIMPÓSIO BRASILEIRO DE INFORMÁTICA NA EDUCAÇÃO (SBIE)</td>
+                <td class="s9">28</td>
+                <td class="s9">1</td>
+                <td class="s9">817</td>
+                <td class="s9">2017</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="http://www.br-ie.org/pub/index.php/sbie/article/download/7610/5406">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R68" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">69</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Avaliando a Experiência do Usuário na utilização do Sistema de Gestão Acadêmica - SIGAA.
+                </td>
+                <td class="s8">SILVA, D. P. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">RIVERO,
+                        L.</span><span style="font-size:10pt;font-family:Calibri,Arial;color:#000000;"> ; SANTOS, D.
+                        V.</span></td>
+                <td class="s8"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://pet.ufma.br/eacomp_anais/wp-content/uploads/sites/7/2017/07/NEWAvaliando-a-Experi%C3%AAncia-do-Usu%C3%A1rio-na-utiliza%C3%A7%C3%A3o.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R69" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">70</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">How Novice Software Engineers Apply User Interface Design Patterns: An Empirical Study.
+                </td>
+                <td class="s25">RIVERO, L.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; CONTE, T.
+                        U.</span></td>
+                <td class="s8">PROCEEDINGS OF THE INTERNATIONAL CONFERENCE SOFTWARE ENGINEERING AND KNOWLEDGE
+                    ENGINEERING SEKE</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">600-604</td>
+                <td class="s9">2016</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="http://www.ksiresearch.org/seke/seke16paper/seke16paper_122.pdf">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R70" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">71</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Evaluation Of UX Methods: Lessons Learned When Evaluating a Multi-user Mobile
+                    Application.</td>
+                <td class="s8">FERREIRA, B. ; RIVERO, L. ; VALENTIM, N. ; ZILSE, R ; KOSTER, A. ; CONTE, T. U.</td>
+                <td class="s8">INTERNATIONAL CONFERENCE ON HUMAN-COMPUTER INTERACTION</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">279-290</td>
+                <td class="s9">2016</td>
+                <td class="s9">Springer</td>
+                <td class="s10"><a target="_blank"
+                        href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-39510-4_26.pdf#page=1&amp;zoom=auto,-127,666">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R71" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">72</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">An Empirical Study to Evaluate the Feasibility of a UX and Usability Inspection Technique
+                    for Mobile Applications.</td>
+                <td class="s8">NASCIMENTO, I. ; SILVA, W. ; LOPES, A. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">RIVERO,
+                        L.</span><span style="font-size:10pt;font-family:Calibri,Arial;color:#000000;"> ; GADELHA, B. ;
+                        OLIVEIRA, E. ; CONTE, TAYANA</span></td>
+                <td class="s8">28TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING &amp; KNOWLEDGE ENGINEERING,
+                    CALIFORNIA, USA</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">2016</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="http://www.ksiresearch.org/seke/seke16paper/seke16paper_127.pdf">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R72" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">73</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Evaluating the Use of Pair Programming and Coding Dojo in the Teaching of Mockups
+                    Development: An Empirical Study.</td>
+                <td class="s8">ESTACIO, B. ; VALENTIM, N. ; RIVERO, L. ; CONTE, TAYANA ; PRIKLADNICKI, R. </td>
+                <td class="s8">2015 48TH HAWAII INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">5084-5093</td>
+                <td class="s9">2015</td>
+                <td class="s9">IEEE</td>
+                <td class="s10"><a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/7070424">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R73" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">74</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Using a Study to Assess User eXperience Evaluation Methods from the Point of View of
+                    Users.</td>
+                <td class="s8">RIVERO, L.; CONTE, TAYANA</td>
+                <td class="s8">ICEIS (3)</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">88-95</td>
+                <td class="s9">2015</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://www.scitepress.org/papers/2015/53773/53773.pdf">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R74" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">75</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">A Method for Evaluating the Post-use User eXperience through Cards and a Board. </td>
+                <td class="s8">CAVALCANTE, E. ; RIVERO, L. ; CONTE, T. U.</td>
+                <td class="s8">27TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING (SEKE
+                    2015)</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">495-500</td>
+                <td class="s9">2015</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="http://www.ksiresearch.org/seke/seke15paper/seke15paper_136.pdf">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R75" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">76</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Evaluating Software Engineers? Acceptance of a Technique and Tool for Web Usability
+                    Inspection. </td>
+                <td class="s24">RIVERO, L.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; VINCENZI,
+                        A. ; MALDONADO, J. C. ; CONTE, T. U.</span></td>
+                <td class="s8">PROCEEDINGS OF THE 7TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING AND KNOWLEDGE
+                    ENGINEERING</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">114-121</td>
+                <td class="s9">2015</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Luis-Rivero-4/publication/294580916_Evaluating_Software_Engineers&#39;_Acceptance_of_a_Technique_and_Tool_for_Web_Usability_Inspection/links/56c204e808aee5caccf9a776/Evaluating-Software-Engineers-Acceptance-of-a-Technique-and-Tool-for-Web-Usability-Inspection.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R76" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">77</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Aplicando Design Thinking para Melhorar a Qualidade de um Aplicativo Web Móvel.</td>
+                <td class="s8">MARQUES, A. ; CAVALCANTE, E. ; RIVERO, L. ; LOPES, A. ; CONTE, T. U. </td>
+                <td class="s8">ANAIS DO XIV SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">196-203</td>
+                <td class="s9">2015</td>
+                <td class="s9">SBC</td>
+                <td class="s10"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/sbqs/article/download/15223/15067/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R77" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">78</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Practical Findings from Applying Innovative Design Usability Evaluation Technologies for
+                    Mockups of Web Applications. </td>
+                <td class="s24">RIVERO, L.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; KALINOWSKI,
+                        M. ; CONTE, T. U.</span></td>
+                <td class="s8">2014 47TH HAWAII INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">3054-3063</td>
+                <td class="s9">2014</td>
+                <td class="s9">IEEE</td>
+                <td class="s10"><a target="_blank"
+                        href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6758981">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R78" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">79</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Identificando Oportunidades de Melhoria em Tecnologias de Inspeção de Usabilidade para o
+                    Contexto Web Móvel através de Estudos Experimentais.</td>
+                <td class="s8">KAWAKAMI, G. ; RIVERO, L. ; CONTE, T. U. </td>
+                <td class="s8">CIBSE</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">336-349</td>
+                <td class="s9">2014</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Luis-Rivero-4/publication/288973768_Identifying_opportunities_for_improvement_in_usability_inspection_technologies_for_context_mobile_web_via_a_controlled/links/56c1d23408ae44da37ff3db9/Identifying-opportunities-for-improvement-in-usability-inspection-technologies-for-context-mobile-web-via-a-controlled.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R79" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">80</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Web DUE: Uma Técnica de Inspeção de Usabilidade de Mockups de Aplicações Web Guiada Por
+                    Zonas Próprias de Páginas Web.</td>
+                <td class="s26">RIVERO, L.; CONTE, TAYANA</td>
+                <td class="s8">ANAIS DO XIII SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">326-340</td>
+                <td class="s9">2014</td>
+                <td class="s9">SBC</td>
+                <td class="s10"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/sbqs/article/download/15265/15109/">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R80" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">81</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Aplicando Design e Avaliação de Usabilidade para Melhorar a Qualidade de um Aplicativo
+                    Web Móvel.</td>
+                <td class="s26">RIVERO, L.; VALLE, R. ; CONTE, TAYANA</td>
+                <td class="s8">ANAIS DO XIII SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">248-255</td>
+                <td class="s9">2014</td>
+                <td class="s9">SBC</td>
+                <td class="s9"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R81" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">82</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Using a Controlled Experiment to Evaluate Usability Inspection Technologies for Improving
+                    the Quality of Mobile Web Applications Earlier in their Design. </td>
+                <td class="s8">RIVERO, L.; KAWAKAMI, G. ; CONTE, TAYANA</td>
+                <td class="s8">2014 BRAZILIAN SYMPOSIUM ON SOFTWARE ENGINEERING</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">161-170</td>
+                <td class="s9">2014</td>
+                <td class="s9">IEEE</td>
+                <td class="s10"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Luis-Rivero-4/publication/288485717_Using_a_Controlled_Experiment_to_Evaluate_Usability_Inspection_Technologies_for_Improving_the_Quality_of_Mobile_Web_Applications_Earlier_in_their_Design/links/56c2062308aeedba0567cad1/Using-a-Controlled-Experiment-to-Evaluate-Usability-Inspection-Technologies-for-Improving-the-Quality-of-Mobile-Web-Applications-Earlier-in-their-Design.pdf">Download</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R82" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">83</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Apoiando o Ensino de Qualidade de Software: Um Serious Game para o Ensino de Usabilidade.
+                </td>
+                <td class="s8">FERREIRA, B. ; RIVERO, L. ; LOPES, A. ; MARQUES, A. ; CONTE, TAYANA</td>
+                <td class="s8">FÓRUM DE EDUCAÇÃO EM ENGENHARIA DE SOFTWARE</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">12-21</td>
+                <td class="s9">2014</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://www.academia.edu/50248186/Apoiando_o_Ensino_de_Qualidade_de_Software_Um_Serious_Game_para_o_Ensino_de_Usabilidade">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R83" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">84</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">UsabiliCity: Um Jogo de Apoio ao Ensino de Propriedades de Usabilidade de Software.</td>
+                <td class="s8">FERREIRA, B. ; RIVERO, L. ; LOPES, A. ; MARQUES, A. ; CONTE, TAYANA </td>
+                <td class="s8"></td>
+                <td class="s9">25</td>
+                <td class="s9">1</td>
+                <td class="s9">1273</td>
+                <td class="s9">2014</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="http://www.br-ie.org/pub/index.php/sbie/article/download/3075/2583">Download</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R84" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">85</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Improving Usability Inspection Technologies for Web Mockups through Empirical Studies.
+                </td>
+                <td class="s24">RIVERO, L.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; CONTE, T.
+                        U.</span></td>
+                <td class="s8">SEKE</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">172-177</td>
+                <td class="s9">2013</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Luis-Rivero-4/publication/292848465_Improving_usability_inspection_technologies_for_web_mockups_through_empirical_studies/links/56c203ab08ae44da37ff4fb4/Improving-usability-inspection-technologies-for-web-mockups-through-empirical-studies.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R85" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">86</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">An Approach for the Elicitation of Usability Requirements in the Development of Web
+                    Applications.</td>
+                <td class="s24">RIVERO, L.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; MARCZAK, S.
+                        ; CONTE, T. U.</span></td>
+                <td class="s8">CEUR WORKSHOP PROCEEDING OF REQUIREMENTS ENGINEERING</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">2013</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="http://ceur-ws.org/Vol-1005/erbr2013_submission_27.pdf">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R86" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">87</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Mockup DUE: Uma Ferramenta de Apoio ao Processo de Inspeção de Usabilidade de Mockups de
+                    Aplicações Web.</td>
+                <td class="s24">RIVERO, L.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; SANTOS, D.
+                        V. ; CONTE, T. U.</span></td>
+                <td class="s8"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Luis-Rivero-4/publication/294580666_Mockup_DUE_Uma_Ferramenta_de_Apoio_ao_Processo_de_Inspecao_de_Usabilidade_de_Mockups_de_Aplicacoes_Web/links/56c2065c08aeedba0567caea/Mockup-DUE-Uma-Ferramenta-de-Apoio-ao-Processo-de-Inspecao-de-Usabilidade-de-Mockups-de-Aplicacoes-Web.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R87" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">88</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Characterizing Usability Inspection Methods through the Analysis of a Systematic Mapping
+                    Study Extension.</td>
+                <td class="s24">RIVERO, L.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; CONTE, T.
+                        U.</span></td>
+                <td class="s8">CLEI ELETRONIC JOURNAL</td>
+                <td class="s9">16</td>
+                <td class="s9">1</td>
+                <td class="s9">12</td>
+                <td class="s9">2013</td>
+                <td class="s9">Centro Latinoamericano de Estudios en Informática</td>
+                <td class="s10"><a target="_blank"
+                        href="http://www.scielo.edu.uy/pdf/cleiej/v16n1/v16n1a12.pdf">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R88" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">89</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Using the Results from a Systematic Mapping Extension to Define a Usability Inspection
+                    Method for Web Applications.</td>
+                <td class="s24">RIVERO, L.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; CONTE, T.
+                        U.</span></td>
+                <td class="s8">SEKE</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">582-587</td>
+                <td class="s9">2012</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Luis-Rivero-4/publication/294580668_Using_the_Results_from_a_Systematic_Mapping_Extension_to_Define_a_Usability_Inspection_Method_for_Web_Applications/links/56c206a508ae44da37ff50f4/Using-the-Results-from-a-Systematic-Mapping-Extension-to-Define-a-Usability-Inspection-Method-for-Web-Applications.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R89" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">90</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Using an Empirical Study to Evaluate the Feasibility of a new Usability Inspection
+                    Technique for Paper Based Prototypes of Web Applications.</td>
+                <td class="s24">RIVERO, L.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; CONTE, T.
+                        U.</span></td>
+                <td class="s8">JOURNAL OF SOFTWARE ENGINEERING RESEARCH AND DEVELOPMENT</td>
+                <td class="s9">1</td>
+                <td class="s9">1</td>
+                <td class="s9">jan.-25</td>
+                <td class="s9">2013</td>
+                <td class="s9">SpringerOpen</td>
+                <td class="s10"><a target="_blank"
+                        href="https://jserd.springeropen.com/track/pdf/10.1186/2195-1721-1-2.pdf">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R90" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">91</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Avaliando uma nova Abordagem para Inspeção de Usabilidade através de Análise Quantitativa
+                    e Qualitativa.</td>
+                <td class="s8">FERNANDES, P. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">RIVERO,
+                        L.</span><span style="font-size:10pt;font-family:Calibri,Arial;color:#000000;"> ; BONIFACIO, B.
+                        A. ; SANTOS, D. V. ; CONTE, T. U.</span></td>
+                <td class="s8">VIII WORKSHOP LATINO AMERICANO DE ENGENHARIA DE SOFTWARE EXPERIMENTAL</td>
+                <td class="s9">1</td>
+                <td class="s9"></td>
+                <td class="s9">67-76</td>
+                <td class="s9">2011</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwjHg-Ox-db0AhXFqpUCHdwoDDwQFnoECAkQAQ&amp;url=https%3A%2F%2Ftede.ufam.edu.br%2Fbitstream%2Ftede%2F4124%2F2%2FDisserta%25C3%25A7%25C3%25A3o%2520-%2520Prsicila%2520Silva%2520Fernandes.pdf&amp;usg=AOvVaw3utcqKFV__Y-uTO_wSvELp">Download</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R91" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">92</div>
+                </th>
+                <td></td>
+                <td class="s27"></td>
+                <td class="s27"></td>
+                <td class="s27"></td>
+                <td class="s28"></td>
+                <td class="s28"></td>
+                <td class="s28"></td>
+                <td class="s28"></td>
+                <td class="s28"></td>
+                <td class="s28"></td>
+            </tr>
+            <tr style="height: 20px">
+                <th id="847348028R92" style="height: 20px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 20px">93</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s2" colspan="9">Resumos expandidos publicados em anais de congressos</td>
+            </tr>
+            <tr style="height: 20px">
+                <th id="847348028R93" style="height: 20px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 20px">94</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s4">Título</td>
+                <td class="s5">Autores</td>
+                <td class="s6 softmerge">
+                    <div class="softmerge-inner" style="width:103px;left:-3px">Revista/Periódico</div>
+                </td>
+                <td class="s6 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Volume</div>
+                </td>
+                <td class="s7 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Número</div>
+                </td>
+                <td class="s4">Página(s)</td>
+                <td class="s4">Ano</td>
+                <td class="s4">Editora</td>
+                <td class="s4">Arquivo/Link</td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R94" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">95</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Definindo um Sistema de Monitoramento em Tempo real para o Transporte Público da Cidade
+                    de Manaus.</td>
+                <td class="s8">BRITO, M. S. ; SOUZA, D. B. ; REZENDE, L. V. B. ; MARQUES, G. F. ; FERNANDES, P. ; FROTA,
+                    V. B. ; RIVERO, L. </td>
+                <td class="s8">ANAIS DO COMPUTER ON THE BEACH</td>
+                <td class="s9">12</td>
+                <td class="s9"></td>
+                <td class="s9">490-492</td>
+                <td class="s9">2021</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwiBorbQ-tb0AhWOq5UCHeU4BCMQFnoECAIQAQ&amp;url=https%3A%2F%2Fsiaiap32.univali.br%2Fseer%2Findex.php%2Facotb%2Farticle%2Fdownload%2F17448%2F9932&amp;usg=AOvVaw3Gjmm0-qoN1oYzB5ZZh7kv">Download</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R95" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">96</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Protótipo de Alta Fidelidade de Assistente Virtual para Instituições de Ensino no Estado
+                    do Amazonas. </td>
+                <td class="s8">TEIXEIRA, A. P. C. ; SANTOS, Y. F. ; RODRIGUES JUNIOR, E. ; MARAJO, P. V. ; FERNANDES, P.
+                    ; FROTA, V. B. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">RIVERO,
+                        L.</span></td>
+                <td class="s8">ANAIS DO COMPUTER ON THE BEACH</td>
+                <td class="s9">12</td>
+                <td class="s9"></td>
+                <td class="s9">493-495</td>
+                <td class="s9">2021</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://siaiap32.univali.br/seer/index.php/acotb/article/download/17449/9933">Download</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R96" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">97</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Proposta de Interface para Um Sistema Inteligente para Gerenciamento de Energia
+                    Fotovoltaica no Contexto Brasileiro.</td>
+                <td class="s8">CHUNG, M. L. ; FROTA, V. B. ; FERNANDES, P. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">RIVERO,
+                        L.</span></td>
+                <td class="s8">ANAIS DO COMPUTER ON THE BEACH</td>
+                <td class="s9">12</td>
+                <td class="s9"></td>
+                <td class="s9">496-498</td>
+                <td class="s9">2021</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://siaiap32.univali.br/seer/index.php/acotb/article/viewFile/17451/9934">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R97" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">98</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Viabilizando a Melhoria do Atendimento Médico Emergencial a Partir da Proposta de Um
+                    Aplicativo de Solicitação de Atendimento Médico Remoto. </td>
+                <td class="s8">CAVALCANTE, V. L. ; SANTANA JUNIOR, P. ; NUNES, F. F. ; FERNANDES, P. ; MACIEL, K. M. ;
+                    FROTA, V. B. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">RIVERO,
+                        L.</span></td>
+                <td class="s8">ANAIS DO COMPUTER ON THE BEACH</td>
+                <td class="s9">12</td>
+                <td class="s9"></td>
+                <td class="s9">499-500</td>
+                <td class="s9">2021</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://siaiap32.univali.br/seer/index.php/acotb/article/viewFile/17452/9935">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R98" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">99</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Identificação das Funcionalidades de um Assistente de Comunicação aos Surdos Aplicando
+                    Técnicas de Elicitação de Requisitos.</td>
+                <td class="s8">BELEM, G. A. ; OLIVEIRA, G. F. ; SILVEIRA, L. S. ; FERNANDES, P. ; FROTA, V. B. ; RIVERO,
+                    L.</td>
+                <td class="s8">ANAIS DO COMPUTER ON THE BEACH</td>
+                <td class="s9">12</td>
+                <td class="s9"></td>
+                <td class="s9">501-503</td>
+                <td class="s9">2021</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://siaiap32.univali.br/seer/index.php/acotb/article/download/17453/9936">Download</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R99" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">100</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Activities in Space: Design e Avaliação de um Jogo Sério para o Ensino de Modelagem de
+                    Diagrama de Atividades.</td>
+                <td class="s8">COSTA, I. ; SANTOS, R. P. ; SANTOS, D. V. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">RIVERO,
+                        L.</span></td>
+                <td class="s8">SBC - PROCEEDINGS OF SBGAMES</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">2019</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://www.sbgames.org/sbgames2019/files/papers/EducacaoShort/197053.pdf">Link</a></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R100" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">101</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Estudos Secundários: Compartilhando Experiências Práticas de Revisões da Literatura em
+                    IHC.</td>
+                <td class="s8">RIVERO, LUIS; SANTOS, R. P. ; SANTOS, D. V.</td>
+                <td class="s8">ANAIS ESTENDIDOS DO XVIII SIMPÓSIO BRASILEIRO SOBRE FATORES HUMANOS EM SISTEMAS
+                    COMPUTACIONAIS</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">5-6</td>
+                <td class="s9">2019</td>
+                <td class="s9">SBC</td>
+                <td class="s10"><a target="_blank"
+                        href="https://sol.sbc.org.br/index.php/ihc_estendido/article/download/8374/8277/">Download</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R101" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">102</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Identificando Oportunidades de Melhoria na Aplicação do Grupo de Acompanhamento de
+                    Discentes no Curso de Ciência da Computação.</td>
+                <td class="s8">ARAUJO, A. ; PEREIRA, E. ; CARDOSO, G. ; COSTA, H. ; COSTA, J. ; COSTA, K.</td>
+                <td class="s8">ANAIS DO IV ENCONTRO MARANHENSE DOS GRUPOS DE PROGRAMA DE EDUCAÇÃO TUTORIAL</td>
+                <td class="s9">1</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">2019</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R102" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">103</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Aplicando Técnicas de Engenharia de Software para o Redesign do Site do Departamento de
+                    Informática da UFMA. </td>
+                <td class="s8">PINTO, A. ; COSTA, E. ; LEITE, F. ; SILVA, J. ; RODRIGUES JUNIOR, J. R. D. ; RIVERO, LUIS
+                </td>
+                <td class="s8">ANAIS DO IV ENCONTRO MARANHENSE DOS GRUPOS DE PROGRAMA DE EDUCAÇÃO TUTORIAL</td>
+                <td class="s9">1</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">2019</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R103" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">104</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">FÁBRICA DE SOFTWARE: Um Projeto para a Capacitação de Alunos do PETComp no
+                    Desenvolvimento de Sistemas de Informação. </td>
+                <td class="s8">COSTA, J. ; COSTA, Y. ; ESTRELA, I. R. ; PINTO, A. ; <span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:bold;color:#000000;">RIVERO,
+                        L.</span></td>
+                <td class="s8">ANAIS DO IV ENCONTRO MARANHENSE DOS GRUPOS DE PROGRAMA DE EDUCAÇÃO TUTORIAL</td>
+                <td class="s9">1</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">2019</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R104" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">105</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Ensino e Extensão: WhatsApp e a Inclusão Digital.</td>
+                <td class="s8">COSTA, J. ; COSTA, Y. ; PEREIRA, E. ; ESTRELA, I. R. ; RIVERO, L.</td>
+                <td class="s8">ANAIS DO XVIII ENCONTRO NORDESTINO DOS GRUPOS PET (ENEPET 2019)</td>
+                <td class="s9">1</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">2019</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R105" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">106</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Motivando Alunos do Ensino médio e graduação para a Computação.</td>
+                <td class="s8">SILVA, J. J. ; COSTA, J. ; ARAUJO, A. ; COSTA, H. ; RIVERO, L.</td>
+                <td class="s8">ANAIS DO XXIV ENCONTRO NACIONAL DOS GRUPOS PET (ENAPET 2019)</td>
+                <td class="s9">1</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">2019</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R106" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">107</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Uma Proposta de Aplicação de Imersão virtual para o Tratamento de Fobias.</td>
+                <td class="s8">VIEIRA, D. ; SANTOS, E. ; RIVERO, L.</td>
+                <td class="s8">ANAIS DO V ENCONTRO REGIONAL DE COMPUTAÇÃO E SISTEMAS DE INFORMAÇÃO</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">2016</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R107" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">108</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Análise de Técnicas de Avaliação de Usabilidade para Aplicação do Sistema de Atendimento
+                    Hospitalar.</td>
+                <td class="s8">COSTA, A. ; RIVERO, L.</td>
+                <td class="s8">ANAIS DO V ENCONTRO REGIONAL DE COMPUTAÇÃO E SISTEMAS DE INFORMAÇÃO</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">2016</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R108" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">109</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">A Methodology for the Elicitation of Usability Requirements in the Development of Web
+                    Applications.</td>
+                <td class="s24">RIVERO, L.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; CONTE, T.
+                        U.</span></td>
+                <td class="s8">ANAIS DA ESCOLA LATINO AMERICANA DE ENGENHARIA DE SOFTWARE: FUNDAMENTOS E ESTADO DA ARTE
+                </td>
+                <td class="s9">1</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">2013</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R109" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">110</div>
+                </th>
+                <td></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+                <td class="s0"></td>
+            </tr>
+            <tr style="height: 20px">
+                <th id="847348028R110" style="height: 20px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 20px">111</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s2" colspan="9">Resumos publicados em anais de congressos</td>
+            </tr>
+            <tr style="height: 20px">
+                <th id="847348028R111" style="height: 20px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 20px">112</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s4">Título</td>
+                <td class="s5">Autores</td>
+                <td class="s6 softmerge">
+                    <div class="softmerge-inner" style="width:103px;left:-3px">Revista/Periódico</div>
+                </td>
+                <td class="s6 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Volume</div>
+                </td>
+                <td class="s7 softmerge">
+                    <div class="softmerge-inner" style="width:56px;left:-3px">Número</div>
+                </td>
+                <td class="s4">Página(s)</td>
+                <td class="s4">Ano</td>
+                <td class="s4">Editora</td>
+                <td class="s4">Arquivo/Link</td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R112" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">113</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Evaluating and Redesigning Software Applications to Meet Usability Standards and Improve
+                    User eXperience Early in the Development Process.</td>
+                <td class="s8">RIVERO, L.; CONTE, TAYANA</td>
+                <td class="s8">PROCEEDINGS OF THE ICSE 2017 PHD AND YOUNG RESEARCHERS WARM UP SYMPOSIUM</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R113" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">114</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Inspeção de Usabilidade em Aplicações Web guiada por Funcionalidades. </td>
+                <td class="s24">RIVERO, L.<span
+                        style="font-size:10pt;font-family:Calibri,Arial;font-weight:normal;color:#000000;">; CONTE, T.
+                        U.</span></td>
+                <td class="s8">ANAIS ESTENDIDOS DO X SIMPÓSIO BRASILEIRO SOBRE FATORES HUMANOS EM SISTEMAS
+                    COMPUTACIONAIS E V CONFERÊNCIA LATINO-AMERICANA DA INTERAÇÃO HUMANO-COMPUTADOR COMPANION PROCEEDINGS
+                    OF THE 10TH BRAZILIAN</td>
+                <td class="s9">1</td>
+                <td class="s9"></td>
+                <td class="s9">4-5</td>
+                <td class="s9">2011</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://www.researchgate.net/profile/Luis-Rivero-4/publication/262173539_Inspecao_de_usabilidade_em_aplicacoes_web_guiada_por_funcionalidades/links/56c1d2dd08ae44da37ff3df8/Inspecao-de-usabilidade-em-aplicacoes-web-guiada-por-funcionalidades.pdf">Link</a>
+                </td>
+            </tr>
+            <tr style="height: 67px">
+                <th id="847348028R114" style="height: 67px;" class="row-headers-background">
+                    <div class="row-header-wrapper" style="line-height: 67px">115</div>
+                </th>
+                <td class="s1"></td>
+                <td class="s8">Pintando no Ar: Uma Ferramenta de desenho virtual para a ilustracao em tempo real de
+                    apresentacoes multimidia.</td>
+                <td class="s8">RIVERO, L.; COSTA, M. G. F.</td>
+                <td class="s8">ANAIS DO IV CONGRESSO DE PESQUISA E INOVAÇÃO DA REDE NORTE NORDESTE DE EDUCAÇÃO
+                    TECNOLÓGICA</td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9">2009</td>
+                <td class="s9"></td>
+                <td class="s10"><a target="_blank"
+                        href="https://www.yumpu.com/pt/document/read/24350459/pintando-no-ar-uma-ferramenta-de-desenho-virtual-para-a-ilustraaao-">Link</a>
+                </td>
